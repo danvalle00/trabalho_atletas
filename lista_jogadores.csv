@@ -1,0 +1,1001 @@
+ID,Nome,Sobrenome,Nome Completo,Idade,Time,Valor,Overall,Força,Resistencia,Velocidade,Força de vontade,Criatividade,Machucado,Posição,Liderança,Tempo de Recuperação
+0,Isaac, Ferreira,Isaac Ferreira,39,Bahia,2839,34,91,26,29,23,4,Não,Ataque,Sim,0
+1,Gustavo, Machado,Gustavo Machado,21,Vasco,1362,50,44,58,71,50,29,Não,Ataque,Sim,0
+2,Vinicius, Marques,Vinicius Marques,38,Grêmio,2192,65,92,93,75,33,36,Não,Libero,Não,0
+3,João, Gomes,João Gomes,35,Athletico-PR,1163,39,66,9,3,66,53,Não,Defesa,Não,0
+4,Nicolas, Lima,Nicolas Lima,32,Cruzeiro,3174,19,24,1,6,44,23,Sim,Gol,Sim,8
+5,João Gabriel, Silva,João Gabriel Silva,39,Internacional,3941,62,85,24,30,88,85,Não,Libero,Não,0
+6,João, Ferreira,João Ferreira,36,Corinthians,9146,29,25,11,24,67,18,Não,Gol,Sim,0
+7,Heitor, Ramos,Heitor Ramos,37,Corinthians,4901,50,56,10,6,100,82,Não,Libero,Sim,0
+8,Enzo, Oliveira,Enzo Oliveira,38,América-MG,6984,34,10,95,44,18,3,Sim,Defesa,Sim,7
+9,Murilo, Lima,Murilo Lima,38,Corinthians,7766,38,30,66,13,30,55,Sim,Ataque,Sim,4
+10,Rafael, Santana,Rafael Santana,16,Corinthians,8562,34,50,4,13,49,54,Sim,Defesa,Sim,12
+11,Lorenzo, Pereira,Lorenzo Pereira,17,São Paulo,6648,56,85,77,55,27,39,Não,Libero,Sim,0
+12,Leonardo, Nunes,Leonardo Nunes,34,Atlético-MG,5687,35,52,23,41,19,42,Sim,Gol,Não,3
+13,Isaac, Santos,Isaac Santos,16,Grêmio,7425,34,95,45,5,7,20,Sim,Libero,Não,11
+14,Pietro, Gomes,Pietro Gomes,22,Coritiba,4768,79,65,98,52,100,83,Sim,Defesa,Sim,3
+15,Samuel, Martins,Samuel Martins,24,São Paulo,8997,38,6,11,82,77,15,Sim,Libero,Sim,2
+16,Arthur, Pereira,Arthur Pereira,35,Flamengo,2194,47,100,50,39,13,34,Não,Gol,Sim,0
+17,Nicolas, Silva,Nicolas Silva,23,Bahia,6256,36,72,6,13,28,61,Sim,Defesa,Não,1
+18,Pedro, Mendes,Pedro Mendes,39,Vasco,2419,77,100,34,77,78,99,Sim,Meio,Sim,9
+19,Nicolas, Costa,Nicolas Costa,17,São Paulo,5334,44,40,7,16,72,87,Não,Meio,Não,0
+20,Marcos, Santos,Marcos Santos,17,Coritiba,2053,48,71,9,99,4,60,Não,Gol,Sim,0
+21,Murilo, Rodrigues,Murilo Rodrigues,21,Grêmio,2437,36,11,69,61,15,26,Sim,Meio,Sim,9
+22,Bernardo, Barbosa,Bernardo Barbosa,34,Fluminense,4141,43,36,82,12,57,31,Sim,Meio,Sim,2
+23,João Vitor, Ribeiro,João Vitor Ribeiro,40,Vasco,5000,29,9,62,57,6,11,Sim,Meio,Sim,5
+24,João, Ribeiro,João Ribeiro,32,Botafogo,6799,65,51,45,69,99,63,Não,Ataque,Não,0
+25,Enzo, Ribeiro,Enzo Ribeiro,20,Fluminense,8070,57,53,11,29,97,97,Sim,Meio,Sim,1
+26,Eduardo, Soares,Eduardo Soares,34,Bahia,5893,52,34,41,95,74,17,Sim,Libero,Não,6
+27,Guilherme, Ribeiro,Guilherme Ribeiro,24,Goiás,2156,67,94,55,71,89,28,Sim,Defesa,Não,6
+28,João Pedro, Dias,João Pedro Dias,23,Bragantino,7268,50,70,67,50,42,25,Não,Gol,Não,0
+29,Lorenzo, Costa,Lorenzo Costa,35,Cuiabá,1687,45,29,35,64,88,11,Sim,Defesa,Não,4
+30,Enzo, Dias,Enzo Dias,23,Internacional,3424,39,36,55,45,20,42,Não,Meio,Sim,0
+31,Gustavo, Alves,Gustavo Alves,39,Palmeiras,6347,38,68,22,51,34,19,Não,Gol,Não,0
+32,Guilherme, Fernandes,Guilherme Fernandes,33,Athletico-PR,6478,48,26,41,80,88,8,Não,Gol,Sim,0
+33,Thiago, Mendes,Thiago Mendes,16,Vasco,6702,62,63,37,88,30,96,Sim,Meio,Sim,5
+34,Henrique, Mendes,Henrique Mendes,27,Cruzeiro,8479,62,21,83,85,37,88,Sim,Meio,Sim,6
+35,Marcos, Ferreira,Marcos Ferreira,18,Atlético-MG,2238,60,69,68,96,38,33,Sim,Gol,Não,6
+36,Murilo, Ramos,Murilo Ramos,28,Corinthians,6537,31,69,52,12,4,18,Não,Meio,Não,0
+37,Murilo, Ferreira,Murilo Ferreira,17,Cuiabá,2499,59,28,26,75,95,75,Sim,Defesa,Sim,3
+38,Enzo, Rocha,Enzo Rocha,19,Cruzeiro,8070,67,24,61,91,87,72,Sim,Defesa,Não,11
+39,Pietro, Mendes,Pietro Mendes,16,Vasco,3192,61,58,36,93,25,97,Não,Meio,Não,0
+40,Thiago, Santos,Thiago Santos,31,Flamengo,4699,69,87,38,73,74,74,Sim,Libero,Sim,9
+41,Bernardo, Almeida,Bernardo Almeida,30,Atlético-MG,4048,39,29,65,38,16,47,Não,Gol,Não,0
+42,Davi, Dias,Davi Dias,34,Botafogo,2147,44,21,58,95,17,29,Não,Defesa,Não,0
+43,Daniel, Nunes,Daniel Nunes,38,Palmeiras,3920,45,38,49,50,29,62,Sim,Ataque,Não,8
+44,Thiago, Teixeira,Thiago Teixeira,28,Goiás,4762,50,59,32,54,41,64,Sim,Gol,Não,1
+45,Daniel, Nunes,Daniel Nunes,21,Vasco,2913,44,29,82,38,52,19,Sim,Ataque,Sim,11
+46,Vitor, Oliveira,Vitor Oliveira,34,Bahia,1596,74,76,78,98,37,85,Sim,Libero,Não,2
+47,Isaac, Marques,Isaac Marques,37,Goiás,8371,61,8,98,88,90,24,Sim,Ataque,Não,12
+48,Leonardo, Mendes,Leonardo Mendes,22,Flamengo,3430,36,14,78,78,13,1,Não,Libero,Não,0
+49,João Pedro, Carvalho,João Pedro Carvalho,36,Grêmio,1265,65,69,56,74,90,39,Sim,Libero,Sim,4
+50,Isaac, Ribeiro,Isaac Ribeiro,33,Bragantino,3970,33,20,24,31,65,26,Não,Defesa,Não,0
+51,Matheus, Rodrigues,Matheus Rodrigues,33,América-MG,5195,36,26,52,33,19,51,Sim,Ataque,Não,6
+52,Samuel, Soares,Samuel Soares,34,Flamengo,3380,56,74,100,39,52,16,Sim,Defesa,Não,7
+53,Vinicius, Martins,Vinicius Martins,23,Fortaleza,3591,27,2,6,15,66,49,Não,Defesa,Não,0
+54,Enzo, Costa,Enzo Costa,19,Vasco,3312,31,5,85,15,40,14,Não,Gol,Sim,0
+55,Enzo, Lopes,Enzo Lopes,35,Atlético-MG,3878,38,22,97,29,14,29,Sim,Meio,Sim,3
+56,Davi, Carvalho,Davi Carvalho,39,Corinthians,3552,37,43,22,89,20,13,Sim,Gol,Não,4
+57,Pietro, Nunes,Pietro Nunes,22,Vasco,1370,28,14,9,49,46,25,Sim,Meio,Não,9
+58,Isaac, Almeida,Isaac Almeida,25,Palmeiras,4643,23,25,1,70,9,10,Sim,Gol,Sim,1
+59,Enzo, Almeida,Enzo Almeida,23,Vasco,8415,44,37,90,39,38,17,Sim,Gol,Sim,9
+60,Cauã, Gomes,Cauã Gomes,34,Goiás,5179,37,87,8,8,5,81,Sim,Ataque,Não,8
+61,João, Soares,João Soares,28,Coritiba,3735,49,1,57,24,83,80,Não,Defesa,Sim,0
+62,Matheus, Rocha,Matheus Rocha,18,Grêmio,4981,52,10,77,49,38,89,Não,Ataque,Não,0
+63,Miguel, Almeida,Miguel Almeida,39,Internacional,8777,39,47,47,42,4,58,Sim,Meio,Sim,3
+64,João Gabriel, Dias,João Gabriel Dias,17,Cruzeiro,1012,61,60,83,22,46,98,Sim,Ataque,Sim,3
+65,Isaac, Nunes,Isaac Nunes,39,Vasco,1802,54,63,81,55,7,65,Não,Meio,Não,0
+66,Gustavo, Mendes,Gustavo Mendes,32,Botafogo,9116,45,19,41,76,44,45,Não,Libero,Sim,0
+67,Murilo, Nunes,Murilo Nunes,24,Vasco,2308,28,69,6,5,21,42,Sim,Meio,Não,11
+68,Nicolas, Gonçalves,Nicolas Gonçalves,36,Corinthians,1055,58,56,65,58,45,69,Não,Gol,Sim,0
+69,Gustavo, Almeida,Gustavo Almeida,28,Goiás,3461,66,50,73,69,55,83,Sim,Gol,Não,12
+70,Samuel, Mendes,Samuel Mendes,18,Fluminense,8227,41,86,2,11,45,61,Não,Defesa,Não,0
+71,Lucas, Rodrigues,Lucas Rodrigues,20,Bragantino,6532,22,35,19,13,31,14,Sim,Ataque,Não,7
+72,Eduardo, Moreira,Eduardo Moreira,23,Goiás,1063,27,33,28,42,30,6,Não,Defesa,Não,0
+73,Matheus, Teixeira,Matheus Teixeira,18,Goiás,5343,38,31,3,39,38,83,Não,Ataque,Não,0
+74,Lucca, Rocha,Lucca Rocha,24,Fluminense,7874,69,88,61,69,87,40,Não,Meio,Não,0
+75,Thiago, Dias,Thiago Dias,36,Santos,8514,55,94,45,13,45,79,Não,Ataque,Sim,0
+76,Enzo, Ferreira,Enzo Ferreira,38,Vasco,6854,46,82,22,38,43,47,Sim,Defesa,Sim,6
+77,João Vitor, Gomes,João Vitor Gomes,38,Corinthians,5028,47,12,10,78,64,71,Sim,Libero,Sim,1
+78,Vinicius, Santos,Vinicius Santos,21,Atlético-MG,3498,35,17,50,21,26,65,Sim,Defesa,Sim,3
+79,Lorenzo, Ramos,Lorenzo Ramos,40,Palmeiras,5958,64,59,10,85,77,89,Sim,Ataque,Não,10
+80,Murilo, Gomes,Murilo Gomes,23,São Paulo,3327,50,25,61,94,47,27,Sim,Defesa,Não,11
+81,João Vitor, Freitas,João Vitor Freitas,37,Coritiba,4502,68,70,52,63,60,97,Não,Gol,Não,0
+82,Rafael, Cardoso,Rafael Cardoso,16,Athletico-PR,6308,55,87,9,56,59,67,Sim,Ataque,Sim,3
+83,Murilo, Almeida,Murilo Almeida,16,Bahia,4195,46,27,79,10,49,68,Não,Defesa,Não,0
+84,Caio, Freitas,Caio Freitas,37,Bragantino,5508,72,44,92,83,49,92,Sim,Defesa,Sim,2
+85,Davi, Alves,Davi Alves,22,América-MG,2763,81,93,73,63,92,87,Sim,Gol,Sim,11
+86,Vitor, Soares,Vitor Soares,25,Cruzeiro,1395,40,88,49,34,31,2,Não,Libero,Sim,0
+87,Daniel, Dias,Daniel Dias,34,Bragantino,8112,44,60,6,6,50,99,Sim,Meio,Sim,9
+88,João Pedro, Ferreira,João Pedro Ferreira,25,Athletico-PR,4598,36,32,49,21,8,70,Não,Libero,Sim,0
+89,Miguel, Fernandes,Miguel Fernandes,34,Vasco,5118,57,78,95,78,6,31,Sim,Libero,Não,7
+90,Gustavo, Rocha,Gustavo Rocha,28,América-MG,3669,52,69,98,15,17,61,Não,Defesa,Não,0
+91,João Pedro, Fernandes,João Pedro Fernandes,17,Atlético-MG,8246,46,15,42,27,59,90,Não,Meio,Sim,0
+92,Lucca, Souza,Lucca Souza,26,Coritiba,3022,30,73,37,16,4,20,Sim,Gol,Sim,2
+93,Miguel, Souza,Miguel Souza,18,Cruzeiro,9680,39,62,11,86,31,7,Sim,Libero,Não,8
+94,Marcos, Santos,Marcos Santos,32,Internacional,6366,40,68,5,69,24,34,Não,Libero,Sim,0
+95,Marcos, Santana,Marcos Santana,39,Goiás,2223,54,92,23,60,22,74,Sim,Meio,Não,9
+96,Vinicius, Freitas,Vinicius Freitas,34,Fluminense,7339,44,22,16,64,28,91,Não,Meio,Sim,0
+97,Murilo, Mendes,Murilo Mendes,25,Flamengo,2841,64,38,85,94,83,23,Não,Ataque,Não,0
+98,Vinicius, Teixeira,Vinicius Teixeira,24,Fortaleza,8908,41,54,41,11,37,62,Sim,Libero,Não,4
+99,Cauã, Freitas,Cauã Freitas,38,Bragantino,4379,72,99,75,77,31,80,Não,Meio,Sim,0
+100,Heitor, Mendes,Heitor Mendes,35,Goiás,6028,48,46,73,5,70,49,Não,Meio,Sim,0
+101,Vinicius, Ferreira,Vinicius Ferreira,16,Cruzeiro,7164,77,44,86,73,88,97,Não,Gol,Sim,0
+102,Matheus, Cardoso,Matheus Cardoso,38,América-MG,8848,21,7,20,7,51,20,Sim,Defesa,Não,7
+103,Henrique, Gonçalves,Henrique Gonçalves,22,Vasco,9746,30,9,44,24,31,43,Sim,Gol,Sim,7
+104,João Pedro, Rocha,João Pedro Rocha,25,Corinthians,8886,39,86,47,54,3,5,Não,Defesa,Não,0
+105,Felipe, Barbosa,Felipe Barbosa,24,São Paulo,7825,35,20,14,89,4,50,Não,Defesa,Não,0
+106,Pedro, Carvalho,Pedro Carvalho,29,Atlético-MG,6175,41,44,83,10,19,52,Não,Defesa,Não,0
+107,Cauã, Pereira,Cauã Pereira,23,Atlético-MG,4639,46,12,31,42,79,70,Sim,Meio,Não,10
+108,João Pedro, Barbosa,João Pedro Barbosa,35,Fortaleza,8918,32,19,23,66,18,34,Sim,Defesa,Não,1
+109,Davi, Carvalho,Davi Carvalho,21,Athletico-PR,1278,46,93,11,48,58,20,Não,Ataque,Não,0
+110,Thiago, Oliveira,Thiago Oliveira,31,São Paulo,6118,39,65,26,15,82,7,Sim,Libero,Sim,9
+111,Bernardo, Pereira,Bernardo Pereira,31,Corinthians,4160,63,56,59,80,22,99,Não,Gol,Não,0
+112,Samuel, Lopes,Samuel Lopes,29,Cruzeiro,7584,43,18,70,78,46,7,Sim,Gol,Sim,1
+113,Henrique, Lopes,Henrique Lopes,34,Goiás,4574,54,80,71,32,67,20,Não,Gol,Não,0
+114,João Vitor, Alves,João Vitor Alves,32,Atlético-MG,7194,48,36,78,21,22,85,Não,Meio,Não,0
+115,Gabriel, Machado,Gabriel Machado,24,Fortaleza,1495,37,52,80,2,38,16,Não,Libero,Sim,0
+116,João Pedro, Gomes,João Pedro Gomes,34,Coritiba,2113,60,79,98,35,37,53,Não,Ataque,Não,0
+117,Matheus, Pereira,Matheus Pereira,32,Santos,5458,73,16,79,86,92,93,Não,Defesa,Sim,0
+118,Enzo, Ribeiro,Enzo Ribeiro,19,São Paulo,7741,25,2,48,28,32,17,Não,Meio,Não,0
+119,Lorenzo, Silva,Lorenzo Silva,16,Fortaleza,1697,54,36,14,93,95,35,Não,Meio,Não,0
+120,Henrique, Cardoso,Henrique Cardoso,17,Cruzeiro,6754,80,75,98,74,77,78,Não,Meio,Não,0
+121,Cauã, Teixeira,Cauã Teixeira,21,Bahia,9555,69,100,84,34,36,92,Não,Libero,Não,0
+122,Bernardo, Dias,Bernardo Dias,35,Athletico-PR,1970,38,43,67,66,13,2,Não,Defesa,Sim,0
+123,Lucca, Teixeira,Lucca Teixeira,16,São Paulo,9890,43,21,26,26,90,54,Sim,Ataque,Sim,7
+124,João, Machado,João Machado,29,Coritiba,3946,43,63,51,49,17,36,Sim,Ataque,Sim,6
+125,Vinicius, Lima,Vinicius Lima,34,São Paulo,4625,34,53,20,2,58,37,Não,Defesa,Sim,0
+126,Arthur, Rodrigues,Arthur Rodrigues,35,Corinthians,9018,34,81,13,2,41,34,Não,Ataque,Não,0
+127,João Gabriel, Santos,João Gabriel Santos,21,Flamengo,1679,44,26,26,31,62,78,Não,Meio,Sim,0
+128,João Gabriel, Gonçalves,João Gabriel Gonçalves,16,Fortaleza,9626,64,30,52,85,75,82,Não,Libero,Sim,0
+129,Gustavo, Santana,Gustavo Santana,38,Santos,4665,64,90,76,78,27,49,Sim,Ataque,Não,1
+130,Arthur, Silva,Arthur Silva,18,Cuiabá,4631,41,27,50,43,48,41,Não,Ataque,Sim,0
+131,Nicolas, Rocha,Nicolas Rocha,30,Goiás,2635,55,71,75,31,14,85,Sim,Libero,Sim,9
+132,João Vitor, Machado,João Vitor Machado,22,Fortaleza,9064,49,55,63,57,31,40,Não,Meio,Sim,0
+133,Heitor, Santos,Heitor Santos,17,Bahia,2137,31,32,40,17,45,25,Não,Ataque,Não,0
+134,Leonardo, Barbosa,Leonardo Barbosa,28,Vasco,5724,56,76,62,30,95,20,Sim,Ataque,Sim,7
+135,João, Silva,João Silva,34,Flamengo,2212,48,70,19,27,38,86,Sim,Gol,Não,1
+136,Leonardo, Nunes,Leonardo Nunes,24,Coritiba,7655,45,58,96,24,17,34,Sim,Meio,Sim,6
+137,Guilherme, Oliveira,Guilherme Oliveira,38,Palmeiras,7259,48,5,74,2,91,71,Não,Meio,Sim,0
+138,Henrique, Vieira,Henrique Vieira,39,Atlético-MG,6914,42,20,38,52,84,17,Não,Defesa,Sim,0
+139,Vinicius, Almeida,Vinicius Almeida,30,Atlético-MG,7654,51,71,90,31,17,48,Não,Gol,Sim,0
+140,Davi, Ribeiro,Davi Ribeiro,39,Bragantino,1386,64,83,64,61,59,57,Sim,Meio,Não,7
+141,Nicolas, Dias,Nicolas Dias,29,Cuiabá,8873,50,10,84,99,58,2,Sim,Defesa,Sim,10
+142,Marcos, Rocha,Marcos Rocha,28,Palmeiras,1246,60,85,28,75,91,24,Sim,Meio,Não,10
+143,Heitor, Carvalho,Heitor Carvalho,37,Grêmio,9535,35,44,66,18,44,7,Não,Ataque,Não,0
+144,João, Freitas,João Freitas,23,Internacional,6353,53,61,60,75,2,68,Não,Gol,Não,0
+145,Vinicius, Silva,Vinicius Silva,30,Atlético-MG,9957,59,55,19,47,89,87,Sim,Gol,Sim,5
+146,Cauã, Teixeira,Cauã Teixeira,27,Botafogo,9114,46,80,75,10,6,61,Sim,Meio,Sim,3
+147,Enzo, Santana,Enzo Santana,35,Coritiba,7247,50,43,95,10,65,38,Não,Gol,Não,0
+148,Arthur, Moreira,Arthur Moreira,36,Atlético-MG,4471,43,89,21,4,18,85,Não,Gol,Sim,0
+149,Felipe, Teixeira,Felipe Teixeira,22,Atlético-MG,6395,43,14,50,6,62,87,Não,Defesa,Sim,0
+150,Caio, Oliveira,Caio Oliveira,20,Vasco,7559,57,20,80,65,78,44,Sim,Gol,Não,7
+151,Gabriel, Souza,Gabriel Souza,21,Vasco,2102,59,96,20,93,36,51,Sim,Libero,Não,4
+152,Lucca, Lopes,Lucca Lopes,27,Santos,3082,31,36,29,22,14,54,Sim,Meio,Sim,5
+153,Cauã, Gonçalves,Cauã Gonçalves,38,Flamengo,6645,50,83,11,72,49,38,Sim,Gol,Não,4
+154,Lorenzo, Rodrigues,Lorenzo Rodrigues,33,Vasco,1390,47,95,61,20,8,54,Sim,Meio,Não,12
+155,Murilo, Gonçalves,Murilo Gonçalves,18,Grêmio,9298,29,9,30,17,8,83,Sim,Gol,Não,12
+156,Vitor, Martins,Vitor Martins,40,Bahia,9350,46,55,31,90,7,49,Sim,Ataque,Sim,8
+157,Enzo, Carvalho,Enzo Carvalho,20,Santos,5657,38,91,48,5,3,43,Sim,Defesa,Sim,2
+158,Vitor, Lopes,Vitor Lopes,30,Coritiba,6372,49,30,96,51,13,59,Sim,Ataque,Não,5
+159,João Pedro, Rodrigues,João Pedro Rodrigues,25,Internacional,8460,50,34,88,28,80,22,Sim,Defesa,Sim,10
+160,Guilherme, Gomes,Guilherme Gomes,30,Santos,6841,32,61,2,48,12,39,Sim,Libero,Sim,8
+161,Isaac, Teixeira,Isaac Teixeira,26,Goiás,1789,37,11,27,84,2,62,Sim,Defesa,Sim,10
+162,João Gabriel, Martins,João Gabriel Martins,16,Botafogo,2762,56,44,80,39,80,41,Não,Defesa,Não,0
+163,Vitor, Nunes,Vitor Nunes,25,Athletico-PR,2318,34,37,37,26,64,10,Não,Libero,Sim,0
+164,Vitor, Nascimento,Vitor Nascimento,38,Botafogo,5242,66,30,25,97,95,85,Não,Gol,Sim,0
+165,Samuel, Nunes,Samuel Nunes,32,Vasco,5328,35,28,32,6,97,16,Não,Ataque,Não,0
+166,Davi, Martins,Davi Martins,25,Palmeiras,1073,51,75,44,19,95,26,Sim,Defesa,Sim,12
+167,Lorenzo, Martins,Lorenzo Martins,32,Cruzeiro,9153,40,13,18,28,93,50,Não,Meio,Não,0
+168,Bernardo, Ribeiro,Bernardo Ribeiro,25,Cruzeiro,7850,74,96,46,79,85,67,Não,Gol,Sim,0
+169,Arthur, Nunes,Arthur Nunes,21,São Paulo,7207,38,12,11,41,43,86,Não,Meio,Sim,0
+170,Heitor, Martins,Heitor Martins,19,Cruzeiro,5924,44,14,57,91,46,12,Não,Gol,Não,0
+171,Gabriel, Freitas,Gabriel Freitas,25,Fortaleza,6015,64,80,87,27,83,43,Sim,Libero,Sim,6
+172,João Gabriel, Lima,João Gabriel Lima,35,Flamengo,4936,46,87,4,38,47,54,Sim,Meio,Sim,4
+173,Cauã, Lopes,Cauã Lopes,33,América-MG,1587,48,48,42,47,89,14,Não,Libero,Não,0
+174,Lorenzo, Nunes,Lorenzo Nunes,23,Athletico-PR,5574,56,77,73,21,49,61,Não,Libero,Sim,0
+175,Pietro, Santos,Pietro Santos,32,Goiás,6751,37,23,38,21,72,33,Sim,Meio,Sim,12
+176,Lorenzo, Fernandes,Lorenzo Fernandes,27,Bahia,4064,46,25,81,73,33,21,Sim,Defesa,Não,4
+177,Felipe, Cardoso,Felipe Cardoso,20,Bragantino,5977,40,25,1,84,74,20,Sim,Gol,Sim,10
+178,Nicolas, Teixeira,Nicolas Teixeira,39,Flamengo,1028,61,95,62,37,44,69,Não,Defesa,Sim,0
+179,Henrique, Gonçalves,Henrique Gonçalves,19,Fortaleza,6191,54,100,32,82,42,14,Sim,Gol,Sim,11
+180,Pedro, Nascimento,Pedro Nascimento,37,Coritiba,4333,50,90,34,68,37,21,Não,Defesa,Sim,0
+181,Nicolas, Oliveira,Nicolas Oliveira,30,Fortaleza,3153,47,54,90,66,8,19,Não,Ataque,Sim,0
+182,Felipe, Rocha,Felipe Rocha,21,Fluminense,5344,51,99,36,95,7,22,Sim,Libero,Não,1
+183,Rafael, Ribeiro,Rafael Ribeiro,29,São Paulo,9901,50,41,17,91,40,64,Sim,Libero,Não,5
+184,João Pedro, Ferreira,João Pedro Ferreira,28,Goiás,6679,70,74,81,66,60,72,Não,Meio,Não,0
+185,João, Ribeiro,João Ribeiro,20,Atlético-MG,2009,49,58,27,11,63,86,Sim,Meio,Não,7
+186,Lucca, Gonçalves,Lucca Gonçalves,29,Botafogo,4523,60,93,77,25,68,39,Não,Ataque,Não,0
+187,Bernardo, Mendes,Bernardo Mendes,38,Fluminense,6462,53,34,11,77,55,89,Sim,Ataque,Não,9
+188,Henrique, Freitas,Henrique Freitas,22,Goiás,6828,47,20,50,47,33,86,Sim,Gol,Não,10
+189,Pietro, Almeida,Pietro Almeida,24,América-MG,8669,53,26,58,89,14,81,Sim,Ataque,Sim,5
+190,Pedro, Dias,Pedro Dias,25,Vasco,6873,47,60,49,33,72,23,Sim,Ataque,Não,5
+191,Caio, Marques,Caio Marques,35,Flamengo,4582,55,65,60,67,4,79,Sim,Ataque,Sim,12
+192,João, Rocha,João Rocha,27,Grêmio,3750,43,65,60,38,35,21,Sim,Meio,Sim,7
+193,Leonardo, Costa,Leonardo Costa,32,América-MG,7643,71,53,94,91,65,55,Não,Libero,Não,0
+194,Felipe, Ribeiro,Felipe Ribeiro,39,Corinthians,1247,36,25,33,16,54,53,Sim,Gol,Não,10
+195,Murilo, Gomes,Murilo Gomes,30,Cruzeiro,2897,38,34,10,75,37,34,Sim,Libero,Sim,3
+196,Matheus, Barbosa,Matheus Barbosa,18,Cruzeiro,4086,67,37,26,99,99,74,Sim,Ataque,Sim,2
+197,Leonardo, Oliveira,Leonardo Oliveira,25,América-MG,8495,64,100,78,38,81,27,Não,Ataque,Não,0
+198,João Pedro, Nunes,João Pedro Nunes,24,Flamengo,9684,41,67,81,13,29,19,Sim,Gol,Sim,7
+199,Rafael, Mendes,Rafael Mendes,29,Cruzeiro,6451,57,49,30,97,88,21,Sim,Meio,Não,7
+200,João Gabriel, Ferreira,João Gabriel Ferreira,28,Flamengo,2030,57,51,72,60,94,10,Não,Libero,Não,0
+201,Vinicius, Marques,Vinicius Marques,28,Athletico-PR,2236,48,23,78,1,70,70,Sim,Meio,Não,3
+202,Pedro, Gomes,Pedro Gomes,39,Internacional,7899,37,64,14,38,28,42,Sim,Ataque,Sim,8
+203,Enzo, Nascimento,Enzo Nascimento,37,Palmeiras,3723,66,49,81,28,94,82,Sim,Ataque,Não,4
+204,Pedro, Oliveira,Pedro Oliveira,34,Atlético-MG,6029,40,93,9,16,66,17,Sim,Defesa,Sim,9
+205,Lucas, Andrade,Lucas Andrade,17,Fluminense,6549,45,52,88,9,43,34,Sim,Gol,Sim,12
+206,Davi, Ribeiro,Davi Ribeiro,23,Cuiabá,9104,58,17,54,79,80,64,Sim,Gol,Não,7
+207,Marcos, Gonçalves,Marcos Gonçalves,34,Athletico-PR,2449,32,38,12,92,4,18,Sim,Defesa,Não,5
+208,Heitor, Mendes,Heitor Mendes,27,Santos,5737,43,95,71,5,6,40,Não,Gol,Não,0
+209,Lucca, Rocha,Lucca Rocha,28,Coritiba,8557,33,11,60,1,45,48,Não,Meio,Não,0
+210,Davi, Oliveira,Davi Oliveira,17,Coritiba,1973,42,24,94,1,39,53,Sim,Ataque,Não,6
+211,Davi, Lima,Davi Lima,37,Coritiba,3612,54,43,62,75,90,1,Não,Ataque,Não,0
+212,Arthur, Ribeiro,Arthur Ribeiro,22,São Paulo,3462,36,20,43,31,87,1,Sim,Ataque,Sim,11
+213,Miguel, Martins,Miguel Martins,23,Palmeiras,9312,52,67,100,12,72,13,Não,Libero,Não,0
+214,Henrique, Andrade,Henrique Andrade,22,Santos,5602,51,88,90,13,57,10,Não,Defesa,Sim,0
+215,Eduardo, Oliveira,Eduardo Oliveira,23,América-MG,5028,36,23,33,31,74,23,Sim,Meio,Não,2
+216,Eduardo, Ribeiro,Eduardo Ribeiro,17,Vasco,6159,41,41,78,17,30,39,Sim,Libero,Não,9
+217,Gustavo, Soares,Gustavo Soares,37,Bahia,6434,32,38,20,72,17,13,Sim,Gol,Sim,11
+218,Nicolas, Teixeira,Nicolas Teixeira,27,São Paulo,3401,53,28,35,97,53,54,Sim,Meio,Não,4
+219,Rafael, Rocha,Rafael Rocha,28,Bragantino,2234,67,98,83,95,28,31,Sim,Meio,Não,8
+220,Davi, Fernandes,Davi Fernandes,26,Grêmio,3148,62,83,57,76,87,8,Não,Meio,Não,0
+221,Nicolas, Santos,Nicolas Santos,35,Bahia,7253,40,33,35,52,28,52,Não,Meio,Sim,0
+222,Pedro, Andrade,Pedro Andrade,29,Coritiba,5514,27,5,24,28,68,11,Sim,Gol,Não,7
+223,Gabriel, Cardoso,Gabriel Cardoso,16,Cuiabá,4540,60,30,67,77,54,75,Sim,Libero,Sim,8
+224,Pietro, Machado,Pietro Machado,21,Fluminense,9265,46,6,83,21,78,42,Sim,Meio,Sim,4
+225,Gustavo, Rodrigues,Gustavo Rodrigues,30,Vasco,7489,38,30,43,1,77,41,Sim,Gol,Sim,2
+226,Lucca, Soares,Lucca Soares,38,Palmeiras,4631,51,84,6,91,69,6,Não,Meio,Sim,0
+227,Bernardo, Lopes,Bernardo Lopes,19,Athletico-PR,6907,48,18,39,55,98,34,Não,Libero,Não,0
+228,Heitor, Dias,Heitor Dias,16,Bahia,2412,33,58,18,74,2,16,Não,Libero,Sim,0
+229,Nicolas, Machado,Nicolas Machado,26,Grêmio,2521,42,13,25,34,90,49,Sim,Meio,Não,10
+230,Heitor, Andrade,Heitor Andrade,17,Internacional,4762,39,30,46,6,85,28,Não,Gol,Sim,0
+231,Daniel, Andrade,Daniel Andrade,38,Athletico-PR,7571,52,46,3,64,80,69,Sim,Defesa,Não,8
+232,Vitor, Silva,Vitor Silva,35,Athletico-PR,6976,58,42,78,42,86,44,Não,Defesa,Não,0
+233,Felipe, Oliveira,Felipe Oliveira,23,Vasco,4523,53,59,17,43,53,96,Sim,Meio,Não,2
+234,Arthur, Dias,Arthur Dias,39,Goiás,7258,36,6,8,82,41,43,Sim,Gol,Sim,11
+235,Miguel, Barbosa,Miguel Barbosa,36,Cuiabá,3283,53,35,42,61,87,42,Sim,Ataque,Não,7
+236,Pietro, Soares,Pietro Soares,36,Santos,2118,42,17,63,100,13,18,Sim,Gol,Não,9
+237,Matheus, Vieira,Matheus Vieira,25,Grêmio,1626,39,47,14,45,17,73,Sim,Meio,Não,4
+238,Miguel, Marques,Miguel Marques,37,Cuiabá,8176,44,2,41,77,42,62,Sim,Meio,Sim,1
+239,João Gabriel, Oliveira,João Gabriel Oliveira,35,Fortaleza,9170,49,38,43,69,42,54,Sim,Libero,Não,10
+240,Lucas, Nascimento,Lucas Nascimento,30,Santos,9932,73,60,85,94,66,63,Sim,Defesa,Sim,4
+241,João Vitor, Vieira,João Vitor Vieira,33,Cuiabá,7395,33,66,35,16,31,19,Sim,Defesa,Não,7
+242,Eduardo, Cardoso,Eduardo Cardoso,30,Flamengo,4045,39,60,49,62,23,2,Sim,Gol,Sim,10
+243,Cauã, Santana,Cauã Santana,33,Santos,4534,66,85,93,45,46,64,Não,Libero,Não,0
+244,Eduardo, Souza,Eduardo Souza,22,Bragantino,2927,47,76,27,72,41,22,Sim,Gol,Sim,9
+245,Gabriel, Teixeira,Gabriel Teixeira,40,Vasco,4943,39,7,59,11,77,42,Não,Libero,Não,0
+246,Marcos, Cardoso,Marcos Cardoso,31,Cruzeiro,5460,52,63,18,66,37,79,Não,Libero,Sim,0
+247,Davi, Souza,Davi Souza,24,Flamengo,7765,28,21,76,12,3,32,Não,Ataque,Sim,0
+248,Rafael, Martins,Rafael Martins,25,Coritiba,6937,71,49,50,81,77,98,Sim,Gol,Não,7
+249,Pietro, Dias,Pietro Dias,22,Botafogo,8246,38,28,78,73,8,4,Sim,Gol,Não,2
+250,Samuel, Dias,Samuel Dias,40,Goiás,7687,43,5,97,54,36,24,Sim,Gol,Não,10
+251,Guilherme, Dias,Guilherme Dias,21,Fluminense,8785,33,31,88,9,23,15,Sim,Gol,Não,4
+252,Guilherme, Alves,Guilherme Alves,23,Coritiba,1725,53,85,47,98,23,14,Não,Ataque,Sim,0
+253,Gustavo, Freitas,Gustavo Freitas,19,Palmeiras,6454,44,15,37,61,18,89,Sim,Defesa,Não,12
+254,João Pedro, Lopes,João Pedro Lopes,28,Fluminense,8853,53,13,73,59,90,32,Não,Defesa,Sim,0
+255,Samuel, Carvalho,Samuel Carvalho,27,Santos,1048,40,3,71,23,7,98,Não,Meio,Não,0
+256,Pedro, Soares,Pedro Soares,32,Coritiba,8815,47,1,57,26,99,53,Sim,Meio,Sim,2
+257,Isaac, Andrade,Isaac Andrade,18,Internacional,1525,39,57,41,47,3,48,Sim,Libero,Sim,11
+258,Henrique, Vieira,Henrique Vieira,19,Cuiabá,1489,42,82,15,24,34,57,Não,Libero,Não,0
+259,Lucca, Fernandes,Lucca Fernandes,28,Cuiabá,5855,54,49,66,51,86,21,Sim,Libero,Não,8
+260,Vinicius, Rocha,Vinicius Rocha,36,Bragantino,1711,38,53,11,39,87,3,Não,Libero,Sim,0
+261,Lorenzo, Silva,Lorenzo Silva,17,Goiás,3965,40,54,3,36,31,77,Sim,Ataque,Não,12
+262,Lorenzo, Vieira,Lorenzo Vieira,39,Santos,1463,43,9,71,80,19,38,Não,Ataque,Sim,0
+263,Lorenzo, Lima,Lorenzo Lima,23,Vasco,9928,46,28,31,58,30,87,Não,Gol,Não,0
+264,Guilherme, Machado,Guilherme Machado,17,Internacional,6008,33,33,13,35,52,35,Sim,Gol,Sim,9
+265,Leonardo, Ramos,Leonardo Ramos,36,Corinthians,4693,48,91,64,16,59,11,Sim,Gol,Sim,3
+266,Lucca, Silva,Lucca Silva,25,Cuiabá,9743,52,18,92,56,28,67,Não,Defesa,Não,0
+267,Henrique, Costa,Henrique Costa,39,Palmeiras,5936,78,79,79,85,54,93,Não,Gol,Sim,0
+268,Enzo, Gomes,Enzo Gomes,18,América-MG,6849,55,54,40,55,60,70,Sim,Libero,Sim,7
+269,Thiago, Lima,Thiago Lima,27,Fortaleza,7674,46,75,12,73,32,39,Não,Gol,Não,0
+270,João, Marques,João Marques,23,Athletico-PR,7721,75,88,74,80,38,99,Sim,Defesa,Sim,5
+271,Isaac, Pereira,Isaac Pereira,25,Coritiba,5309,42,66,80,11,37,19,Sim,Meio,Sim,6
+272,Gustavo, Almeida,Gustavo Almeida,36,Grêmio,9589,47,63,41,97,3,34,Sim,Meio,Não,8
+273,Marcos, Ramos,Marcos Ramos,29,Vasco,1579,55,7,96,30,43,99,Sim,Ataque,Não,11
+274,Matheus, Rodrigues,Matheus Rodrigues,26,Grêmio,8027,49,41,68,26,94,16,Sim,Ataque,Sim,2
+275,Lorenzo, Silva,Lorenzo Silva,38,Bahia,2607,56,14,67,89,15,98,Não,Meio,Não,0
+276,Pedro, Barbosa,Pedro Barbosa,30,Botafogo,7347,37,46,24,45,39,33,Sim,Gol,Sim,10
+277,Thiago, Souza,Thiago Souza,22,Vasco,1296,39,16,67,1,57,56,Sim,Gol,Sim,8
+278,Cauã, Almeida,Cauã Almeida,32,Botafogo,5151,55,83,64,75,19,35,Sim,Meio,Sim,9
+279,Enzo, Lopes,Enzo Lopes,27,Vasco,3524,50,54,31,72,36,58,Sim,Libero,Sim,8
+280,Miguel, Teixeira,Miguel Teixeira,29,Goiás,9766,67,91,69,17,64,95,Não,Libero,Sim,0
+281,Davi, Alves,Davi Alves,24,Cuiabá,7052,50,82,65,13,69,24,Não,Gol,Não,0
+282,Cauã, Lima,Cauã Lima,16,Botafogo,6628,48,5,96,47,7,89,Não,Meio,Sim,0
+283,Eduardo, Martins,Eduardo Martins,25,Santos,1773,50,14,95,63,12,69,Não,Libero,Sim,0
+284,Leonardo, Souza,Leonardo Souza,31,Goiás,4460,46,71,68,42,35,18,Não,Gol,Sim,0
+285,Samuel, Gonçalves,Samuel Gonçalves,39,Goiás,3520,52,34,52,40,51,83,Sim,Ataque,Sim,7
+286,Murilo, Andrade,Murilo Andrade,17,Grêmio,6662,37,87,39,14,10,35,Não,Gol,Sim,0
+287,Davi, Martins,Davi Martins,27,São Paulo,9691,39,88,14,80,5,11,Não,Libero,Sim,0
+288,João Vitor, Pereira,João Vitor Pereira,19,Botafogo,5587,46,85,87,8,32,19,Não,Gol,Não,0
+289,João, Mendes,João Mendes,38,Bragantino,6391,70,66,84,91,35,78,Não,Gol,Não,0
+290,Caio, Ramos,Caio Ramos,23,Corinthians,2133,48,47,65,56,58,15,Sim,Ataque,Sim,2
+291,Daniel, Gomes,Daniel Gomes,34,Coritiba,6567,56,10,77,58,42,96,Sim,Ataque,Sim,1
+292,Gustavo, Martins,Gustavo Martins,40,América-MG,9320,51,54,19,52,99,33,Não,Gol,Sim,0
+293,Samuel, Ferreira,Samuel Ferreira,28,Athletico-PR,9919,41,27,66,14,54,45,Não,Gol,Sim,0
+294,Lorenzo, Barbosa,Lorenzo Barbosa,35,Bragantino,1073,63,13,68,86,68,81,Sim,Meio,Sim,12
+295,Gustavo, Lopes,Gustavo Lopes,21,Flamengo,6676,64,45,30,95,59,92,Sim,Ataque,Não,8
+296,Pedro, Lima,Pedro Lima,18,Fortaleza,6629,70,88,72,66,61,63,Não,Libero,Sim,0
+297,Eduardo, Souza,Eduardo Souza,24,Bragantino,4149,37,12,55,35,81,4,Não,Meio,Não,0
+298,Isaac, Machado,Isaac Machado,24,Vasco,9739,40,27,11,39,78,49,Não,Ataque,Não,0
+299,Leonardo, Gonçalves,Leonardo Gonçalves,38,Grêmio,6000,37,35,63,25,25,40,Sim,Gol,Não,10
+300,João Pedro, Martins,João Pedro Martins,37,Bragantino,5920,32,46,23,36,33,24,Sim,Defesa,Não,7
+301,João Vitor, Santana,João Vitor Santana,27,Santos,1367,45,21,45,85,27,47,Não,Libero,Sim,0
+302,Enzo, Moreira,Enzo Moreira,39,Fluminense,2505,45,50,77,9,55,34,Sim,Defesa,Não,8
+303,Pietro, Ribeiro,Pietro Ribeiro,35,Athletico-PR,6429,11,3,10,22,5,19,Não,Gol,Não,0
+304,Bernardo, Dias,Bernardo Dias,37,Athletico-PR,5822,46,54,40,15,68,55,Sim,Ataque,Não,5
+305,Heitor, Freitas,Heitor Freitas,17,Cuiabá,6035,36,13,45,3,45,77,Não,Libero,Sim,0
+306,Felipe, Barbosa,Felipe Barbosa,38,Fortaleza,5229,27,2,8,48,25,55,Sim,Meio,Sim,10
+307,Lorenzo, Freitas,Lorenzo Freitas,32,Vasco,5355,43,13,3,89,73,40,Sim,Defesa,Sim,2
+308,Heitor, Soares,Heitor Soares,40,Coritiba,6995,53,21,35,59,77,73,Sim,Gol,Não,9
+309,Vinicius, Dias,Vinicius Dias,37,Flamengo,5159,71,46,83,47,98,81,Sim,Meio,Sim,12
+310,Daniel, Almeida,Daniel Almeida,35,Coritiba,9813,25,4,41,68,8,4,Sim,Ataque,Sim,7
+311,Vitor, Ribeiro,Vitor Ribeiro,36,Athletico-PR,9667,37,38,22,30,96,3,Sim,Defesa,Não,7
+312,João, Costa,João Costa,33,América-MG,6688,39,35,7,4,82,68,Não,Defesa,Não,0
+313,Miguel, Gomes,Miguel Gomes,40,Santos,4805,75,88,92,87,38,71,Não,Ataque,Não,0
+314,Guilherme, Nunes,Guilherme Nunes,29,Internacional,2149,58,8,85,87,38,74,Não,Ataque,Sim,0
+315,Nicolas, Pereira,Nicolas Pereira,33,Vasco,3273,44,91,3,60,41,29,Sim,Meio,Sim,2
+316,Guilherme, Santana,Guilherme Santana,27,Internacional,2022,29,32,13,20,50,30,Sim,Ataque,Sim,11
+317,Lucca, Fernandes,Lucca Fernandes,31,Botafogo,5874,30,22,87,13,13,18,Sim,Libero,Sim,10
+318,Lucca, Gonçalves,Lucca Gonçalves,31,Vasco,4779,56,85,63,86,2,45,Não,Ataque,Sim,0
+319,Henrique, Silva,Henrique Silva,38,Flamengo,6537,78,48,84,99,74,89,Não,Ataque,Não,0
+320,Nicolas, Soares,Nicolas Soares,16,Fortaleza,6038,36,13,98,40,29,1,Sim,Ataque,Não,10
+321,Pietro, Lima,Pietro Lima,33,Botafogo,5082,40,40,26,37,34,66,Sim,Ataque,Sim,11
+322,Pedro, Oliveira,Pedro Oliveira,34,Fortaleza,3972,22,50,9,24,8,22,Não,Ataque,Sim,0
+323,Davi, Ferreira,Davi Ferreira,27,Fortaleza,4618,65,88,47,75,74,44,Sim,Ataque,Sim,5
+324,Miguel, Ramos,Miguel Ramos,22,Botafogo,6712,64,58,80,88,51,43,Não,Ataque,Sim,0
+325,João Gabriel, Rodrigues,João Gabriel Rodrigues,24,Atlético-MG,6392,59,100,28,94,22,54,Sim,Libero,Sim,3
+326,Pedro, Oliveira,Pedro Oliveira,39,América-MG,2722,53,58,22,44,48,96,Não,Meio,Não,0
+327,João Vitor, Silva,João Vitor Silva,40,Goiás,1685,34,12,75,9,23,51,Sim,Ataque,Sim,11
+328,Lucca, Lima,Lucca Lima,29,Athletico-PR,7434,75,99,65,94,61,58,Não,Gol,Não,0
+329,Davi, Souza,Davi Souza,27,Corinthians,7832,61,10,73,82,63,77,Não,Ataque,Sim,0
+330,Leonardo, Soares,Leonardo Soares,26,Santos,9841,47,65,80,66,3,24,Sim,Defesa,Não,4
+331,Gustavo, Rodrigues,Gustavo Rodrigues,32,Fluminense,2790,54,25,94,35,81,36,Não,Meio,Não,0
+332,Arthur, Martins,Arthur Martins,28,Corinthians,7876,36,43,19,33,82,3,Não,Meio,Não,0
+333,Leonardo, Carvalho,Leonardo Carvalho,36,Bragantino,6843,64,21,98,67,99,36,Não,Gol,Sim,0
+334,João, Fernandes,João Fernandes,17,Palmeiras,7266,56,89,53,43,70,28,Não,Libero,Sim,0
+335,João, Nascimento,João Nascimento,24,Vasco,3031,51,36,34,76,86,24,Sim,Gol,Não,10
+336,Davi, Ribeiro,Davi Ribeiro,18,São Paulo,2668,52,67,46,82,57,8,Não,Meio,Sim,0
+337,João Pedro, Teixeira,João Pedro Teixeira,19,Vasco,7064,68,50,90,51,82,70,Sim,Libero,Não,11
+338,Isaac, Pereira,Isaac Pereira,34,Cruzeiro,2329,46,2,70,75,31,56,Sim,Defesa,Sim,9
+339,Davi, Barbosa,Davi Barbosa,21,América-MG,7773,46,37,13,28,84,68,Sim,Libero,Sim,11
+340,Felipe, Costa,Felipe Costa,19,Internacional,1380,51,80,57,20,9,90,Sim,Libero,Não,8
+341,Bernardo, Costa,Bernardo Costa,25,Atlético-MG,3109,71,99,99,97,31,32,Sim,Libero,Não,12
+342,Pietro, Ribeiro,Pietro Ribeiro,34,Bragantino,4423,35,39,35,39,31,35,Sim,Gol,Não,11
+343,Thiago, Marques,Thiago Marques,27,Grêmio,6821,63,71,100,74,7,63,Sim,Gol,Sim,9
+344,Daniel, Costa,Daniel Costa,25,Botafogo,2362,50,17,25,68,83,58,Sim,Gol,Não,8
+345,Miguel, Teixeira,Miguel Teixeira,37,Goiás,4875,54,44,26,65,63,73,Não,Defesa,Sim,0
+346,Eduardo, Nascimento,Eduardo Nascimento,16,Fluminense,5302,46,1,40,78,77,35,Sim,Meio,Sim,10
+347,Heitor, Gomes,Heitor Gomes,19,Bragantino,6894,58,6,43,84,84,74,Sim,Ataque,Não,2
+348,Henrique, Soares,Henrique Soares,39,Fluminense,9202,40,25,11,34,85,48,Sim,Gol,Sim,8
+349,Pietro, Rodrigues,Pietro Rodrigues,39,Fortaleza,1066,81,90,65,83,90,77,Sim,Defesa,Sim,11
+350,João, Gonçalves,João Gonçalves,33,Bragantino,3473,57,95,20,52,27,95,Não,Libero,Não,0
+351,Eduardo, Nascimento,Eduardo Nascimento,26,Cuiabá,3712,65,31,57,94,54,89,Sim,Libero,Não,10
+352,Caio, Moreira,Caio Moreira,24,Atlético-MG,5908,58,92,35,43,28,92,Sim,Meio,Não,7
+353,Gustavo, Gomes,Gustavo Gomes,21,Bahia,5901,49,81,32,6,71,55,Não,Gol,Sim,0
+354,Thiago, Pereira,Thiago Pereira,31,Flamengo,4283,31,10,7,46,33,61,Não,Libero,Não,0
+355,Lorenzo, Soares,Lorenzo Soares,33,São Paulo,1376,75,66,79,91,89,53,Sim,Defesa,Não,10
+356,Guilherme, Ramos,Guilherme Ramos,23,Cuiabá,4993,37,48,82,38,12,7,Sim,Meio,Não,8
+357,Miguel, Santos,Miguel Santos,40,Bragantino,8048,50,10,53,42,67,79,Sim,Ataque,Sim,5
+358,Samuel, Rodrigues,Samuel Rodrigues,30,Internacional,4915,50,62,33,65,6,84,Sim,Libero,Sim,1
+359,Rafael, Dias,Rafael Dias,39,Atlético-MG,2978,55,73,57,57,10,78,Sim,Libero,Não,12
+360,Vitor, Ribeiro,Vitor Ribeiro,27,Atlético-MG,8205,45,64,1,9,63,89,Sim,Ataque,Não,11
+361,Rafael, Lima,Rafael Lima,35,Cuiabá,7602,35,50,45,3,55,25,Sim,Meio,Sim,11
+362,Vinicius, Ribeiro,Vinicius Ribeiro,35,Grêmio,1695,54,2,74,78,90,28,Sim,Libero,Não,10
+363,Bernardo, Barbosa,Bernardo Barbosa,40,São Paulo,4916,58,5,50,66,76,93,Sim,Defesa,Sim,3
+364,Gabriel, Oliveira,Gabriel Oliveira,20,Fortaleza,8938,36,71,82,19,7,3,Não,Libero,Sim,0
+365,Isaac, Gomes,Isaac Gomes,26,São Paulo,8605,49,48,79,18,65,37,Não,Libero,Não,0
+366,Gabriel, Barbosa,Gabriel Barbosa,17,Flamengo,7770,47,72,2,39,40,83,Não,Ataque,Sim,0
+367,Rafael, Santana,Rafael Santana,18,Grêmio,3406,20,2,19,25,42,16,Não,Defesa,Não,0
+368,Arthur, Nunes,Arthur Nunes,39,Corinthians,4372,37,60,29,22,18,60,Sim,Libero,Sim,9
+369,Eduardo, Santana,Eduardo Santana,39,Corinthians,5289,67,59,42,58,90,87,Sim,Ataque,Sim,1
+370,Daniel, Silva,Daniel Silva,35,Fortaleza,8345,63,43,7,82,93,90,Sim,Libero,Sim,8
+371,Leonardo, Cardoso,Leonardo Cardoso,26,América-MG,9997,37,66,1,5,29,84,Não,Ataque,Sim,0
+372,Felipe, Teixeira,Felipe Teixeira,19,Corinthians,5662,52,15,80,82,50,37,Não,Defesa,Sim,0
+373,Bernardo, Freitas,Bernardo Freitas,21,Internacional,1889,50,53,20,55,25,99,Não,Ataque,Não,0
+374,Nicolas, Rodrigues,Nicolas Rodrigues,26,Bragantino,8702,49,48,35,43,61,60,Sim,Defesa,Não,3
+375,Enzo, Pereira,Enzo Pereira,38,Grêmio,4147,51,42,62,21,65,68,Não,Gol,Não,0
+376,Bernardo, Soares,Bernardo Soares,25,São Paulo,1045,63,97,42,34,86,57,Não,Defesa,Sim,0
+377,Rafael, Marques,Rafael Marques,37,Fluminense,8594,49,37,77,34,70,27,Não,Meio,Sim,0
+378,Eduardo, Costa,Eduardo Costa,29,Goiás,7413,46,23,18,89,3,99,Não,Ataque,Sim,0
+379,Felipe, Santana,Felipe Santana,18,Goiás,1210,56,53,53,85,73,17,Sim,Gol,Não,4
+380,Gustavo, Freitas,Gustavo Freitas,16,Flamengo,5130,64,100,94,19,28,83,Sim,Ataque,Não,3
+381,Pedro, Carvalho,Pedro Carvalho,20,Flamengo,4219,45,9,46,94,31,48,Não,Ataque,Sim,0
+382,Caio, Lima,Caio Lima,17,São Paulo,2847,51,31,52,12,65,95,Não,Defesa,Sim,0
+383,Pedro, Cardoso,Pedro Cardoso,24,Fortaleza,9763,39,91,3,8,71,24,Sim,Defesa,Sim,4
+384,Pedro, Machado,Pedro Machado,18,Flamengo,6126,52,32,54,31,99,44,Não,Meio,Sim,0
+385,Lucas, Gonçalves,Lucas Gonçalves,39,Atlético-MG,5327,45,4,93,28,48,54,Não,Meio,Não,0
+386,Nicolas, Soares,Nicolas Soares,40,Goiás,8807,44,5,64,80,42,32,Não,Libero,Não,0
+387,João, Ribeiro,João Ribeiro,36,Fluminense,5936,32,66,27,38,27,2,Sim,Defesa,Não,7
+388,Henrique, Dias,Henrique Dias,16,Corinthians,5910,52,22,50,84,84,22,Sim,Meio,Não,9
+389,Vitor, Nascimento,Vitor Nascimento,33,Bragantino,1361,38,33,13,89,20,37,Não,Ataque,Sim,0
+390,Cauã, Machado,Cauã Machado,29,Botafogo,9115,48,23,71,90,35,21,Não,Ataque,Não,0
+391,Thiago, Gonçalves,Thiago Gonçalves,19,Corinthians,4771,55,57,15,67,92,44,Sim,Gol,Sim,10
+392,Daniel, Ferreira,Daniel Ferreira,32,América-MG,5129,76,79,52,95,62,96,Sim,Meio,Sim,5
+393,Vitor, Cardoso,Vitor Cardoso,24,Fluminense,1195,34,20,52,10,67,21,Não,Gol,Não,0
+394,Pedro, Cardoso,Pedro Cardoso,18,São Paulo,7764,17,11,32,1,15,28,Sim,Meio,Sim,12
+395,Lucca, Gonçalves,Lucca Gonçalves,16,Internacional,8451,75,100,57,94,28,98,Sim,Ataque,Sim,5
+396,Arthur, Nunes,Arthur Nunes,18,Athletico-PR,2621,51,14,61,92,83,7,Sim,Ataque,Sim,1
+397,Gabriel, Lima,Gabriel Lima,28,Grêmio,3000,66,72,88,19,72,80,Sim,Libero,Sim,3
+398,Gabriel, Rodrigues,Gabriel Rodrigues,21,Corinthians,2776,43,28,91,10,5,82,Sim,Defesa,Sim,3
+399,Lucas, Lima,Lucas Lima,18,Flamengo,5960,41,49,7,83,65,4,Sim,Gol,Não,9
+400,Cauã, Santos,Cauã Santos,23,Goiás,5529,66,26,73,48,88,98,Não,Meio,Não,0
+401,Vinicius, Ramos,Vinicius Ramos,32,Coritiba,9307,27,14,8,29,80,5,Não,Ataque,Não,0
+402,Thiago, Andrade,Thiago Andrade,19,Vasco,6260,64,78,85,34,74,50,Sim,Meio,Sim,7
+403,Eduardo, Freitas,Eduardo Freitas,31,Goiás,9880,61,89,49,60,83,26,Não,Libero,Sim,0
+404,Lorenzo, Ramos,Lorenzo Ramos,18,São Paulo,9455,63,26,83,30,89,87,Não,Defesa,Sim,0
+405,Heitor, Costa,Heitor Costa,36,Palmeiras,5023,61,15,61,91,55,83,Sim,Meio,Sim,2
+406,Felipe, Marques,Felipe Marques,35,Athletico-PR,8915,43,4,67,19,88,39,Sim,Ataque,Sim,10
+407,Miguel, Ramos,Miguel Ramos,35,Atlético-MG,4693,43,23,12,66,24,90,Sim,Libero,Não,10
+408,João Vitor, Vieira,João Vitor Vieira,24,Flamengo,4530,41,62,12,15,32,87,Não,Gol,Não,0
+409,Enzo, Costa,Enzo Costa,17,América-MG,3920,30,28,20,46,37,19,Não,Ataque,Sim,0
+410,João Gabriel, Nunes,João Gabriel Nunes,30,São Paulo,7207,64,12,72,71,95,70,Sim,Ataque,Não,10
+411,Guilherme, Santos,Guilherme Santos,32,Botafogo,4288,64,56,51,68,58,87,Não,Defesa,Não,0
+412,Murilo, Martins,Murilo Martins,40,Corinthians,4087,59,9,74,99,38,77,Não,Libero,Sim,0
+413,Matheus, Ferreira,Matheus Ferreira,24,Botafogo,4428,49,62,43,52,78,12,Não,Libero,Não,0
+414,Davi, Gonçalves,Davi Gonçalves,36,Coritiba,5011,50,38,71,16,95,31,Não,Meio,Não,0
+415,Samuel, Soares,Samuel Soares,23,Internacional,1637,63,71,100,1,89,58,Sim,Meio,Sim,4
+416,João, Rocha,João Rocha,19,Atlético-MG,5877,74,88,45,56,93,90,Sim,Defesa,Sim,8
+417,João Vitor, Silva,João Vitor Silva,37,Bragantino,5568,32,16,29,39,32,47,Sim,Meio,Sim,11
+418,Vitor, Teixeira,Vitor Teixeira,28,Santos,2834,50,13,3,73,69,96,Sim,Gol,Sim,3
+419,Davi, Mendes,Davi Mendes,24,Botafogo,8373,68,97,46,53,68,78,Sim,Defesa,Sim,7
+420,Lucca, Vieira,Lucca Vieira,28,Internacional,3120,44,4,60,18,69,73,Não,Libero,Sim,0
+421,Lorenzo, Vieira,Lorenzo Vieira,27,Grêmio,2874,42,22,52,49,80,10,Não,Gol,Não,0
+422,Heitor, Gonçalves,Heitor Gonçalves,26,Vasco,9256,57,63,42,97,64,23,Não,Gol,Não,0
+423,Rafael, Almeida,Rafael Almeida,26,Atlético-MG,1268,47,3,83,99,20,31,Sim,Libero,Não,4
+424,Henrique, Rodrigues,Henrique Rodrigues,16,Santos,6731,44,68,43,87,6,20,Não,Ataque,Não,0
+425,Henrique, Marques,Henrique Marques,16,Cuiabá,4626,48,33,68,45,14,81,Não,Libero,Sim,0
+426,Lorenzo, Teixeira,Lorenzo Teixeira,36,Cuiabá,5620,57,96,69,18,17,88,Sim,Meio,Não,9
+427,Pietro, Almeida,Pietro Almeida,37,Flamengo,6467,43,25,70,56,21,45,Não,Libero,Sim,0
+428,Lorenzo, Gomes,Lorenzo Gomes,16,Internacional,3674,58,66,90,41,3,91,Não,Gol,Não,0
+429,Daniel, Freitas,Daniel Freitas,22,Cuiabá,3271,70,77,58,89,43,83,Não,Defesa,Sim,0
+430,João Gabriel, Martins,João Gabriel Martins,26,Cuiabá,6752,40,66,19,34,65,17,Sim,Gol,Sim,10
+431,Isaac, Gonçalves,Isaac Gonçalves,16,Atlético-MG,1042,44,62,11,11,82,57,Não,Gol,Sim,0
+432,Eduardo, Ferreira,Eduardo Ferreira,33,Internacional,5481,37,71,30,44,17,27,Sim,Libero,Não,9
+433,Marcos, Cardoso,Marcos Cardoso,31,Fortaleza,9864,30,26,29,24,51,22,Sim,Defesa,Sim,8
+434,Nicolas, Costa,Nicolas Costa,31,Cruzeiro,3254,64,91,82,43,93,13,Sim,Gol,Não,9
+435,Lucas, Pereira,Lucas Pereira,40,Fortaleza,2977,56,25,89,54,84,29,Não,Libero,Não,0
+436,Gustavo, Lopes,Gustavo Lopes,27,Bahia,1591,58,96,79,91,22,4,Sim,Gol,Sim,7
+437,Isaac, Lima,Isaac Lima,20,América-MG,2508,34,32,51,28,44,16,Sim,Ataque,Sim,9
+438,Thiago, Nunes,Thiago Nunes,40,Fortaleza,6053,56,73,80,10,95,22,Sim,Gol,Não,1
+439,Heitor, Santos,Heitor Santos,23,Flamengo,1100,56,36,76,19,53,96,Não,Defesa,Não,0
+440,Matheus, Santana,Matheus Santana,37,Botafogo,2543,41,66,46,30,42,25,Não,Defesa,Não,0
+441,Henrique, Ribeiro,Henrique Ribeiro,26,Bragantino,1252,55,89,67,38,9,72,Não,Defesa,Não,0
+442,Daniel, Gonçalves,Daniel Gonçalves,31,Grêmio,9446,60,84,84,32,95,8,Sim,Ataque,Não,4
+443,Lucas, Pereira,Lucas Pereira,23,Corinthians,3863,33,1,35,88,30,14,Não,Defesa,Sim,0
+444,João Pedro, Oliveira,João Pedro Oliveira,39,Athletico-PR,2219,45,58,37,74,1,58,Não,Meio,Não,0
+445,Daniel, Moreira,Daniel Moreira,30,Santos,2392,46,75,29,49,3,77,Sim,Ataque,Não,3
+446,Pietro, Moreira,Pietro Moreira,22,Corinthians,2329,45,91,64,46,26,2,Sim,Meio,Sim,11
+447,Matheus, Almeida,Matheus Almeida,17,Bragantino,4812,55,3,51,66,62,94,Sim,Libero,Não,10
+448,Rafael, Carvalho,Rafael Carvalho,22,Santos,5098,56,32,100,59,35,56,Não,Libero,Não,0
+449,Lorenzo, Santos,Lorenzo Santos,24,Palmeiras,8308,56,29,4,81,82,84,Não,Gol,Sim,0
+450,Davi, Fernandes,Davi Fernandes,36,Bragantino,4607,58,52,75,83,67,16,Sim,Ataque,Sim,4
+451,Cauã, Oliveira,Cauã Oliveira,23,Bahia,6656,68,76,51,32,97,84,Sim,Defesa,Não,7
+452,Bernardo, Alves,Bernardo Alves,27,Fluminense,1756,64,68,89,47,63,56,Sim,Gol,Sim,5
+453,Samuel, Moreira,Samuel Moreira,39,América-MG,8834,52,24,31,93,53,62,Sim,Meio,Sim,3
+454,Lucca, Gomes,Lucca Gomes,19,Corinthians,3190,60,58,40,37,87,78,Sim,Libero,Sim,11
+455,João Pedro, Moreira,João Pedro Moreira,36,Fluminense,5350,38,4,52,66,36,36,Não,Meio,Sim,0
+456,Gustavo, Silva,Gustavo Silva,16,Santos,1008,53,31,76,88,57,17,Sim,Libero,Não,4
+457,Guilherme, Lima,Guilherme Lima,30,Bragantino,1275,43,17,74,3,30,95,Não,Meio,Não,0
+458,Lucas, Ribeiro,Lucas Ribeiro,20,Palmeiras,2803,38,8,90,40,48,6,Não,Gol,Sim,0
+459,Cauã, Ramos,Cauã Ramos,16,Flamengo,7523,47,38,16,84,68,29,Sim,Gol,Sim,12
+460,Gabriel, Vieira,Gabriel Vieira,31,Fluminense,4076,21,4,53,14,2,35,Sim,Libero,Não,3
+461,Eduardo, Rodrigues,Eduardo Rodrigues,24,Botafogo,2446,54,57,90,48,54,22,Não,Libero,Não,0
+462,Vinicius, Lopes,Vinicius Lopes,18,Goiás,3440,34,27,36,97,9,2,Sim,Meio,Sim,6
+463,Miguel, Barbosa,Miguel Barbosa,18,Grêmio,9050,60,75,81,52,1,92,Sim,Ataque,Não,1
+464,Marcos, Ferreira,Marcos Ferreira,37,Vasco,3977,62,85,75,30,61,62,Não,Defesa,Não,0
+465,Eduardo, Freitas,Eduardo Freitas,27,Botafogo,4524,41,71,15,67,36,18,Sim,Ataque,Não,8
+466,Daniel, Teixeira,Daniel Teixeira,19,Internacional,5991,42,60,50,48,44,10,Não,Meio,Sim,0
+467,Leonardo, Andrade,Leonardo Andrade,17,América-MG,6363,43,40,20,73,23,60,Não,Libero,Não,0
+468,Henrique, Fernandes,Henrique Fernandes,33,Vasco,3544,37,23,48,78,32,7,Sim,Gol,Não,2
+469,Daniel, Machado,Daniel Machado,17,Cruzeiro,8146,38,50,21,60,43,20,Sim,Ataque,Não,11
+470,Thiago, Mendes,Thiago Mendes,38,Goiás,1113,19,23,8,10,50,5,Sim,Gol,Sim,9
+471,Samuel, Mendes,Samuel Mendes,22,Athletico-PR,5389,60,73,75,56,1,95,Sim,Meio,Não,6
+472,Samuel, Mendes,Samuel Mendes,26,Bragantino,9147,62,40,85,11,79,95,Sim,Defesa,Não,11
+473,Matheus, Ramos,Matheus Ramos,32,Atlético-MG,5789,43,67,59,39,6,46,Não,Gol,Não,0
+474,Murilo, Andrade,Murilo Andrade,21,Atlético-MG,4942,59,92,32,76,50,45,Não,Defesa,Não,0
+475,Pietro, Barbosa,Pietro Barbosa,20,Cruzeiro,1595,45,25,99,25,78,2,Sim,Libero,Não,11
+476,Felipe, Teixeira,Felipe Teixeira,39,Atlético-MG,1718,56,83,17,34,86,64,Sim,Gol,Sim,6
+477,Leonardo, Dias,Leonardo Dias,40,Athletico-PR,2536,51,71,65,19,45,58,Não,Meio,Sim,0
+478,Thiago, Lopes,Thiago Lopes,27,Corinthians,1410,52,34,80,65,62,23,Não,Ataque,Não,0
+479,Caio, Oliveira,Caio Oliveira,30,Internacional,8542,52,10,35,95,76,45,Não,Libero,Sim,0
+480,Nicolas, Mendes,Nicolas Mendes,38,Cuiabá,4786,33,12,44,5,51,53,Não,Ataque,Não,0
+481,Murilo, Nascimento,Murilo Nascimento,27,Athletico-PR,4379,74,88,88,81,18,96,Não,Defesa,Sim,0
+482,Heitor, Lima,Heitor Lima,18,Vasco,2359,57,65,100,73,6,42,Não,Ataque,Sim,0
+483,Caio, Soares,Caio Soares,31,Cruzeiro,1995,53,61,33,42,98,35,Não,Meio,Não,0
+484,Daniel, Cardoso,Daniel Cardoso,38,Atlético-MG,4130,57,53,36,68,69,60,Sim,Meio,Não,10
+485,Isaac, Nascimento,Isaac Nascimento,22,Fortaleza,8363,59,93,41,66,81,18,Não,Defesa,Sim,0
+486,Leonardo, Nunes,Leonardo Nunes,22,Fortaleza,1199,47,43,100,1,53,41,Sim,Libero,Não,8
+487,Vinicius, Rodrigues,Vinicius Rodrigues,25,Grêmio,1020,63,53,72,70,96,28,Não,Ataque,Não,0
+488,Matheus, Barbosa,Matheus Barbosa,29,Cruzeiro,5052,54,63,83,49,70,8,Sim,Libero,Não,1
+489,Bernardo, Soares,Bernardo Soares,32,Grêmio,1094,30,17,79,21,11,25,Sim,Defesa,Sim,10
+490,Bernardo, Machado,Bernardo Machado,16,Cruzeiro,8677,42,95,12,32,67,4,Não,Libero,Não,0
+491,Felipe, Fernandes,Felipe Fernandes,22,São Paulo,6406,61,68,50,63,47,80,Sim,Gol,Sim,4
+492,Eduardo, Rodrigues,Eduardo Rodrigues,31,Flamengo,6363,27,17,22,10,4,83,Não,Libero,Não,0
+493,Arthur, Dias,Arthur Dias,18,Flamengo,2917,57,93,76,16,32,72,Não,Ataque,Sim,0
+494,Bernardo, Vieira,Bernardo Vieira,31,Fortaleza,3971,52,35,5,32,88,100,Sim,Ataque,Não,12
+495,Gustavo, Nascimento,Gustavo Nascimento,20,Cuiabá,6339,39,28,59,39,29,40,Sim,Defesa,Não,2
+496,João Gabriel, Moreira,João Gabriel Moreira,21,Fluminense,8934,31,32,15,62,5,45,Sim,Gol,Sim,7
+497,Caio, Martins,Caio Martins,21,Fortaleza,8443,69,15,90,53,95,96,Sim,Libero,Não,6
+498,Gabriel, Carvalho,Gabriel Carvalho,27,Botafogo,1022,47,23,31,84,64,33,Não,Ataque,Não,0
+499,Miguel, Cardoso,Miguel Cardoso,32,São Paulo,9663,52,64,15,36,56,90,Não,Defesa,Não,0
+500,Daniel, Soares,Daniel Soares,36,Grêmio,9062,67,84,86,47,33,89,Não,Libero,Não,0
+501,Eduardo, Freitas,Eduardo Freitas,24,Fortaleza,3041,78,35,96,67,100,93,Não,Meio,Não,0
+502,Enzo, Rocha,Enzo Rocha,35,Coritiba,2462,66,58,80,78,54,61,Não,Defesa,Não,0
+503,Nicolas, Mendes,Nicolas Mendes,28,Palmeiras,2487,35,7,68,65,6,31,Não,Ataque,Sim,0
+504,Vinicius, Ribeiro,Vinicius Ribeiro,17,Atlético-MG,1405,28,15,60,12,35,21,Sim,Meio,Sim,8
+505,Leonardo, Pereira,Leonardo Pereira,32,Cuiabá,3517,33,3,58,9,49,48,Sim,Meio,Não,10
+506,Nicolas, Santos,Nicolas Santos,38,São Paulo,5804,51,8,68,86,35,61,Sim,Defesa,Não,6
+507,Matheus, Soares,Matheus Soares,36,Coritiba,9549,52,12,43,79,61,69,Sim,Gol,Não,1
+508,Henrique, Dias,Henrique Dias,36,Goiás,9278,47,71,38,57,56,16,Não,Defesa,Não,0
+509,Cauã, Gonçalves,Cauã Gonçalves,35,Coritiba,9071,42,27,20,15,83,67,Não,Libero,Sim,0
+510,Marcos, Martins,Marcos Martins,26,Botafogo,3537,67,67,65,69,35,99,Sim,Defesa,Não,3
+511,Isaac, Ferreira,Isaac Ferreira,18,Fluminense,7889,35,67,66,24,1,20,Sim,Libero,Não,7
+512,Pedro, Ramos,Pedro Ramos,22,Bragantino,1955,47,30,84,32,52,38,Não,Defesa,Sim,0
+513,Davi, Dias,Davi Dias,25,Bahia,5249,59,56,79,97,34,29,Sim,Defesa,Sim,11
+514,Arthur, Carvalho,Arthur Carvalho,40,Internacional,8922,61,59,80,15,74,79,Não,Ataque,Sim,0
+515,Leonardo, Moreira,Leonardo Moreira,22,Grêmio,7962,44,16,23,58,58,66,Não,Gol,Sim,0
+516,Felipe, Mendes,Felipe Mendes,23,Flamengo,4621,38,58,19,65,50,2,Não,Gol,Sim,0
+517,Felipe, Carvalho,Felipe Carvalho,40,Palmeiras,5559,46,43,72,53,30,35,Sim,Libero,Sim,8
+518,João Pedro, Gonçalves,João Pedro Gonçalves,30,Flamengo,8612,55,37,64,33,93,49,Sim,Gol,Sim,2
+519,Davi, Gonçalves,Davi Gonçalves,36,Coritiba,9531,72,95,85,61,45,75,Sim,Ataque,Não,6
+520,Henrique, Rocha,Henrique Rocha,40,Santos,9980,58,80,26,95,40,49,Não,Ataque,Sim,0
+521,Guilherme, Nunes,Guilherme Nunes,18,Internacional,5317,39,22,69,51,50,6,Não,Defesa,Não,0
+522,Murilo, Marques,Murilo Marques,30,São Paulo,7446,47,74,4,97,15,49,Sim,Gol,Não,7
+523,Pedro, Machado,Pedro Machado,19,Internacional,1445,66,86,80,61,42,63,Não,Gol,Não,0
+524,Eduardo, Alves,Eduardo Alves,26,Grêmio,6788,70,30,70,97,58,98,Não,Gol,Não,0
+525,João Gabriel, Rodrigues,João Gabriel Rodrigues,21,Cuiabá,7224,54,99,16,22,83,54,Sim,Ataque,Não,5
+526,Bernardo, Vieira,Bernardo Vieira,36,Goiás,5539,54,82,20,79,67,25,Não,Defesa,Sim,0
+527,Lorenzo, Rodrigues,Lorenzo Rodrigues,40,Corinthians,1766,41,6,39,85,69,7,Não,Ataque,Não,0
+528,Davi, Ribeiro,Davi Ribeiro,24,Vasco,4400,37,56,69,18,8,36,Não,Libero,Sim,0
+529,Enzo, Lima,Enzo Lima,25,Bahia,4472,56,6,63,46,96,72,Sim,Gol,Sim,12
+530,Gabriel, Souza,Gabriel Souza,19,Cuiabá,9427,48,9,67,60,42,62,Sim,Defesa,Não,8
+531,Gabriel, Teixeira,Gabriel Teixeira,23,Atlético-MG,3229,46,65,88,31,12,36,Sim,Libero,Sim,7
+532,Guilherme, Pereira,Guilherme Pereira,40,Flamengo,8813,56,32,27,81,43,100,Não,Defesa,Não,0
+533,Thiago, Moreira,Thiago Moreira,27,Corinthians,4105,39,10,64,7,15,100,Sim,Gol,Sim,7
+534,Lucas, Moreira,Lucas Moreira,33,Santos,7795,69,100,74,54,43,74,Sim,Defesa,Não,7
+535,Isaac, Rodrigues,Isaac Rodrigues,27,Fortaleza,6899,49,11,90,30,30,84,Não,Gol,Sim,0
+536,Cauã, Gomes,Cauã Gomes,35,Botafogo,8349,45,26,95,1,27,80,Sim,Libero,Sim,9
+537,Davi, Freitas,Davi Freitas,30,Cuiabá,3344,70,81,75,67,42,87,Não,Defesa,Sim,0
+538,Guilherme, Nascimento,Guilherme Nascimento,40,Palmeiras,9883,45,67,64,18,48,32,Sim,Libero,Sim,6
+539,Guilherme, Ribeiro,Guilherme Ribeiro,19,Flamengo,5595,55,94,31,27,79,48,Não,Gol,Não,0
+540,Bernardo, Mendes,Bernardo Mendes,26,São Paulo,2687,48,3,41,90,16,93,Sim,Ataque,Não,2
+541,João Vitor, Santana,João Vitor Santana,34,Flamengo,6603,30,50,39,9,2,50,Sim,Ataque,Sim,6
+542,João Vitor, Fernandes,João Vitor Fernandes,17,Flamengo,6721,51,78,84,39,21,36,Sim,Ataque,Não,8
+543,Lorenzo, Almeida,Lorenzo Almeida,30,Santos,3957,50,46,63,16,93,34,Sim,Gol,Sim,5
+544,Pietro, Barbosa,Pietro Barbosa,39,Santos,9794,60,99,88,50,21,43,Não,Gol,Não,0
+545,Pietro, Ramos,Pietro Ramos,31,América-MG,4708,73,81,86,84,55,62,Não,Defesa,Sim,0
+546,Lucas, Gonçalves,Lucas Gonçalves,20,Internacional,9842,37,84,6,16,10,72,Sim,Libero,Sim,4
+547,Matheus, Soares,Matheus Soares,26,Cruzeiro,3772,37,8,53,36,76,12,Não,Gol,Sim,0
+548,Caio, Ferreira,Caio Ferreira,26,Vasco,3937,32,54,61,16,11,22,Sim,Gol,Sim,10
+549,Lorenzo, Soares,Lorenzo Soares,36,Santos,2894,66,97,82,47,36,71,Não,Meio,Sim,0
+550,Cauã, Lima,Cauã Lima,33,Flamengo,5129,33,76,20,28,6,38,Sim,Gol,Não,10
+551,Arthur, Fernandes,Arthur Fernandes,28,São Paulo,6398,27,26,31,45,23,14,Sim,Meio,Não,11
+552,Cauã, Santos,Cauã Santos,37,Fluminense,5882,94,98,89,99,96,92,Sim,Gol,Sim,5
+553,João Gabriel, Lopes,João Gabriel Lopes,29,Vasco,7681,62,20,83,83,84,44,Sim,Defesa,Sim,9
+554,Lorenzo, Ramos,Lorenzo Ramos,28,Palmeiras,9721,35,41,20,29,60,28,Sim,Gol,Não,8
+555,Leonardo, Lima,Leonardo Lima,23,Cuiabá,5417,47,68,28,51,76,13,Não,Libero,Não,0
+556,Vitor, Dias,Vitor Dias,23,Cruzeiro,2755,61,16,86,71,54,79,Sim,Gol,Não,12
+557,Leonardo, Vieira,Leonardo Vieira,32,Bahia,2203,45,42,97,62,9,19,Sim,Meio,Sim,8
+558,Gustavo, Nascimento,Gustavo Nascimento,26,Athletico-PR,6403,53,95,52,14,89,18,Sim,Ataque,Não,2
+559,João Gabriel, Mendes,João Gabriel Mendes,28,Fluminense,3205,53,57,55,2,80,71,Não,Meio,Não,0
+560,João Gabriel, Gonçalves,João Gabriel Gonçalves,31,Grêmio,6321,61,3,58,72,95,80,Sim,Meio,Não,2
+561,Cauã, Rodrigues,Cauã Rodrigues,33,Flamengo,7444,46,63,10,38,35,85,Não,Gol,Sim,0
+562,Caio, Rocha,Caio Rocha,25,São Paulo,1972,66,99,71,53,46,65,Sim,Libero,Sim,12
+563,João Gabriel, Dias,João Gabriel Dias,39,Grêmio,9927,19,20,5,3,49,18,Sim,Meio,Sim,12
+564,Henrique, Almeida,Henrique Almeida,38,Botafogo,6595,68,44,33,85,87,95,Sim,Libero,Não,1
+565,Lucca, Cardoso,Lucca Cardoso,18,Palmeiras,1313,51,81,31,83,12,50,Não,Meio,Não,0
+566,Felipe, Ramos,Felipe Ramos,33,Bahia,5479,30,14,7,31,26,73,Não,Libero,Sim,0
+567,Rafael, Santana,Rafael Santana,36,Coritiba,7437,42,28,14,60,17,93,Sim,Defesa,Não,12
+568,Gabriel, Rodrigues,Gabriel Rodrigues,39,Vasco,1140,44,30,54,33,55,50,Não,Ataque,Sim,0
+569,João Gabriel, Costa,João Gabriel Costa,29,Internacional,1472,32,19,33,32,19,60,Sim,Meio,Sim,4
+570,Pedro, Andrade,Pedro Andrade,33,Grêmio,1288,31,31,46,33,2,47,Sim,Meio,Não,3
+571,Enzo, Martins,Enzo Martins,20,Fortaleza,9727,52,47,93,40,44,36,Não,Defesa,Não,0
+572,Matheus, Teixeira,Matheus Teixeira,18,Fortaleza,6091,49,53,4,34,82,75,Sim,Meio,Não,6
+573,Arthur, Souza,Arthur Souza,23,Fluminense,1204,51,37,70,50,63,38,Não,Libero,Não,0
+574,Samuel, Carvalho,Samuel Carvalho,38,Atlético-MG,8546,61,95,44,48,54,66,Não,Gol,Sim,0
+575,Arthur, Costa,Arthur Costa,21,Coritiba,9875,67,17,88,59,83,92,Não,Gol,Não,0
+576,Lorenzo, Pereira,Lorenzo Pereira,26,Athletico-PR,5078,58,37,37,78,95,46,Sim,Defesa,Não,8
+577,Thiago, Carvalho,Thiago Carvalho,32,Grêmio,4269,79,93,74,40,96,92,Sim,Meio,Sim,11
+578,Eduardo, Oliveira,Eduardo Oliveira,29,Coritiba,8686,46,50,14,66,17,85,Sim,Meio,Não,8
+579,Bernardo, Ferreira,Bernardo Ferreira,36,América-MG,6804,41,28,53,45,27,56,Sim,Meio,Sim,9
+580,Lorenzo, Martins,Lorenzo Martins,25,Vasco,4207,69,92,99,50,64,44,Não,Gol,Sim,0
+581,Leonardo, Martins,Leonardo Martins,28,Palmeiras,4082,62,93,91,100,7,19,Não,Defesa,Sim,0
+582,Vinicius, Freitas,Vinicius Freitas,34,Internacional,2975,81,47,90,93,100,78,Não,Defesa,Sim,0
+583,Felipe, Ribeiro,Felipe Ribeiro,21,Santos,4477,71,87,100,12,82,77,Não,Ataque,Não,0
+584,Gustavo, Souza,Gustavo Souza,40,Goiás,5287,75,45,85,97,84,65,Sim,Meio,Não,7
+585,Nicolas, Freitas,Nicolas Freitas,24,Fortaleza,4601,41,24,62,13,79,27,Não,Libero,Não,0
+586,Enzo, Almeida,Enzo Almeida,36,América-MG,1502,36,63,73,16,15,17,Não,Ataque,Sim,0
+587,Caio, Gomes,Caio Gomes,24,Internacional,6275,50,55,79,13,10,97,Não,Libero,Sim,0
+588,Pietro, Barbosa,Pietro Barbosa,37,Fluminense,6997,40,50,95,7,16,34,Não,Libero,Não,0
+589,Vitor, Rodrigues,Vitor Rodrigues,37,Athletico-PR,5929,50,90,33,15,69,46,Não,Defesa,Não,0
+590,Lorenzo, Teixeira,Lorenzo Teixeira,21,Flamengo,8354,46,24,51,46,65,45,Sim,Defesa,Não,4
+591,Gabriel, Alves,Gabriel Alves,25,Corinthians,2468,58,48,70,92,12,70,Sim,Defesa,Sim,3
+592,Pedro, Rocha,Pedro Rocha,16,Cuiabá,1031,48,57,50,97,27,9,Sim,Libero,Sim,2
+593,João Vitor, Vieira,João Vitor Vieira,34,São Paulo,1445,40,28,60,74,16,23,Não,Gol,Não,0
+594,Henrique, Freitas,Henrique Freitas,28,Bahia,4814,49,29,24,15,96,81,Sim,Gol,Sim,9
+595,João Gabriel, Ramos,João Gabriel Ramos,28,Fortaleza,9759,53,81,4,68,64,52,Não,Gol,Sim,0
+596,Marcos, Mendes,Marcos Mendes,28,Palmeiras,7038,54,53,84,47,54,34,Não,Gol,Não,0
+597,João Pedro, Souza,João Pedro Souza,27,Athletico-PR,7496,55,9,74,37,57,100,Não,Meio,Não,0
+598,Pietro, Lopes,Pietro Lopes,33,Palmeiras,5578,38,26,16,52,1,95,Não,Meio,Não,0
+599,Leonardo, Teixeira,Leonardo Teixeira,16,Atlético-MG,8038,58,82,5,54,81,70,Sim,Ataque,Sim,6
+600,Leonardo, Alves,Leonardo Alves,25,Grêmio,2302,53,57,56,74,7,74,Sim,Meio,Sim,5
+601,Gustavo, Martins,Gustavo Martins,37,Vasco,8593,47,62,71,9,53,43,Não,Gol,Sim,0
+602,Daniel, Gonçalves,Daniel Gonçalves,24,Athletico-PR,2376,36,23,70,32,51,7,Não,Meio,Não,0
+603,Felipe, Santos,Felipe Santos,31,Cuiabá,4307,60,87,55,95,46,19,Não,Meio,Sim,0
+604,Leonardo, Moreira,Leonardo Moreira,28,Athletico-PR,1022,66,53,90,54,70,66,Não,Defesa,Sim,0
+605,Gustavo, Ramos,Gustavo Ramos,38,Coritiba,5461,25,5,73,33,5,12,Sim,Libero,Não,5
+606,Thiago, Carvalho,Thiago Carvalho,29,Atlético-MG,1461,65,78,5,100,64,82,Sim,Libero,Não,2
+607,Heitor, Moreira,Heitor Moreira,27,Internacional,6891,56,88,99,46,26,23,Não,Ataque,Sim,0
+608,João Pedro, Moreira,João Pedro Moreira,39,Coritiba,2425,44,78,14,41,82,9,Sim,Gol,Não,6
+609,Daniel, Pereira,Daniel Pereira,16,Corinthians,8654,55,42,41,99,76,17,Sim,Gol,Sim,4
+610,Henrique, Gomes,Henrique Gomes,27,Atlético-MG,1034,76,96,78,75,74,60,Sim,Ataque,Não,8
+611,Guilherme, Cardoso,Guilherme Cardoso,36,Coritiba,7202,44,95,10,20,21,75,Sim,Meio,Sim,11
+612,Enzo, Andrade,Enzo Andrade,27,Vasco,2527,43,4,60,28,88,36,Não,Libero,Sim,0
+613,Cauã, Cardoso,Cauã Cardoso,25,Vasco,3469,77,93,77,93,49,75,Não,Meio,Não,0
+614,Heitor, Rocha,Heitor Rocha,27,Botafogo,4420,41,30,77,89,8,4,Sim,Defesa,Não,6
+615,Arthur, Rodrigues,Arthur Rodrigues,23,Vasco,6437,64,88,96,38,59,43,Sim,Ataque,Sim,9
+616,Murilo, Rocha,Murilo Rocha,35,Athletico-PR,2951,49,49,77,7,70,45,Não,Gol,Não,0
+617,Gustavo, Lima,Gustavo Lima,33,Corinthians,5627,31,9,7,46,25,72,Sim,Defesa,Sim,8
+618,Enzo, Alves,Enzo Alves,27,Bahia,8158,72,11,76,96,82,97,Não,Defesa,Não,0
+619,Gustavo, Carvalho,Gustavo Carvalho,36,América-MG,6182,53,35,25,63,64,82,Sim,Defesa,Sim,12
+620,Felipe, Oliveira,Felipe Oliveira,27,Goiás,5242,45,23,64,71,3,68,Sim,Gol,Sim,4
+621,João Gabriel, Gomes,João Gabriel Gomes,35,Palmeiras,9114,46,69,34,98,17,13,Sim,Gol,Não,8
+622,Isaac, Almeida,Isaac Almeida,27,Santos,2942,35,7,27,45,85,15,Sim,Meio,Não,3
+623,Isaac, Cardoso,Isaac Cardoso,36,Palmeiras,1476,41,4,80,74,30,18,Não,Meio,Sim,0
+624,Guilherme, Lopes,Guilherme Lopes,37,Coritiba,8866,34,45,30,48,13,34,Não,Libero,Não,0
+625,Heitor, Pereira,Heitor Pereira,24,Grêmio,2151,33,32,40,68,15,14,Sim,Gol,Sim,2
+626,João Pedro, Vieira,João Pedro Vieira,38,Fluminense,6890,44,5,81,85,32,19,Não,Defesa,Sim,0
+627,Nicolas, Freitas,Nicolas Freitas,33,Grêmio,7293,50,39,77,69,34,31,Sim,Meio,Sim,11
+628,Samuel, Mendes,Samuel Mendes,17,Cruzeiro,4375,55,74,80,38,69,16,Não,Gol,Sim,0
+629,Vitor, Silva,Vitor Silva,19,Botafogo,4503,48,91,22,84,31,15,Sim,Defesa,Sim,4
+630,Gabriel, Soares,Gabriel Soares,28,Grêmio,5368,74,99,46,95,89,41,Sim,Libero,Sim,1
+631,Daniel, Vieira,Daniel Vieira,29,Corinthians,2485,42,60,6,23,37,88,Sim,Ataque,Sim,7
+632,Vitor, Fernandes,Vitor Fernandes,29,Cuiabá,8048,66,58,35,93,54,93,Sim,Meio,Não,2
+633,Lucca, Rodrigues,Lucca Rodrigues,33,Internacional,9974,50,65,23,97,57,11,Não,Defesa,Sim,0
+634,Henrique, Moreira,Henrique Moreira,19,Atlético-MG,1251,66,84,57,73,97,21,Não,Ataque,Não,0
+635,Vinicius, Marques,Vinicius Marques,27,Goiás,6604,55,100,19,84,59,13,Sim,Gol,Não,12
+636,Enzo, Nascimento,Enzo Nascimento,34,Cruzeiro,5807,74,84,26,74,95,92,Não,Ataque,Não,0
+637,Cauã, Andrade,Cauã Andrade,23,Santos,8902,62,38,74,93,93,12,Não,Ataque,Sim,0
+638,Murilo, Dias,Murilo Dias,25,Flamengo,2133,30,27,40,30,53,2,Não,Defesa,Sim,0
+639,Lorenzo, Soares,Lorenzo Soares,18,Bragantino,3699,48,43,36,72,79,14,Não,Ataque,Não,0
+640,Pietro, Carvalho,Pietro Carvalho,32,Athletico-PR,2823,44,100,29,17,48,27,Sim,Libero,Não,10
+641,Cauã, Santos,Cauã Santos,21,Palmeiras,9107,57,91,8,96,77,14,Sim,Ataque,Sim,10
+642,Guilherme, Soares,Guilherme Soares,24,Bahia,7550,47,5,89,89,35,18,Não,Meio,Não,0
+643,Matheus, Mendes,Matheus Mendes,21,Atlético-MG,2161,51,9,71,56,76,43,Sim,Libero,Sim,12
+644,Davi, Martins,Davi Martins,22,Bragantino,9457,44,34,53,5,85,43,Sim,Defesa,Sim,12
+645,Lucas, Pereira,Lucas Pereira,20,Botafogo,4672,54,100,98,5,66,1,Sim,Gol,Não,12
+646,João Gabriel, Carvalho,João Gabriel Carvalho,34,Goiás,5425,64,32,35,99,98,59,Sim,Meio,Não,2
+647,Gabriel, Rocha,Gabriel Rocha,22,Cruzeiro,4383,63,79,71,61,75,30,Não,Libero,Sim,0
+648,João Gabriel, Mendes,João Gabriel Mendes,21,Flamengo,2035,43,100,38,45,12,21,Sim,Meio,Não,11
+649,Lucas, Ribeiro,Lucas Ribeiro,25,Fluminense,8009,38,69,39,28,53,1,Sim,Defesa,Sim,8
+650,Cauã, Lopes,Cauã Lopes,37,Bragantino,4916,57,75,61,62,65,23,Sim,Meio,Sim,5
+651,Rafael, Nunes,Rafael Nunes,35,Atlético-MG,8098,52,34,42,39,53,95,Não,Ataque,Não,0
+652,Pedro, Moreira,Pedro Moreira,37,Vasco,2019,41,27,86,12,51,32,Não,Defesa,Não,0
+653,Heitor, Dias,Heitor Dias,22,Coritiba,4589,60,67,12,89,48,84,Não,Defesa,Não,0
+654,Murilo, Nascimento,Murilo Nascimento,36,Botafogo,3140,43,6,41,49,91,29,Não,Ataque,Não,0
+655,Henrique, Almeida,Henrique Almeida,19,Athletico-PR,7034,31,46,49,23,21,17,Não,Ataque,Não,0
+656,Gabriel, Rocha,Gabriel Rocha,24,Corinthians,4812,54,52,75,27,22,94,Não,Libero,Não,0
+657,Samuel, Gonçalves,Samuel Gonçalves,24,Internacional,4798,39,25,57,4,48,61,Sim,Defesa,Sim,9
+658,Isaac, Freitas,Isaac Freitas,22,Corinthians,3579,34,24,1,68,19,61,Sim,Meio,Não,2
+659,Thiago, Rodrigues,Thiago Rodrigues,22,Fortaleza,6233,38,68,9,71,32,11,Sim,Gol,Sim,11
+660,Isaac, Mendes,Isaac Mendes,20,Grêmio,6062,59,45,77,30,56,87,Sim,Meio,Não,10
+661,Rafael, Lima,Rafael Lima,22,Botafogo,7104,12,42,5,5,1,10,Não,Meio,Não,0
+662,Arthur, Machado,Arthur Machado,16,Cruzeiro,3258,65,52,100,100,35,38,Não,Defesa,Não,0
+663,Lucas, Almeida,Lucas Almeida,16,Goiás,6642,44,54,65,2,44,58,Sim,Libero,Não,4
+664,Pedro, Costa,Pedro Costa,16,Fluminense,2626,51,32,17,44,72,91,Sim,Defesa,Sim,3
+665,Davi, Nunes,Davi Nunes,16,Bragantino,2286,83,44,94,91,100,88,Não,Gol,Sim,0
+666,Leonardo, Fernandes,Leonardo Fernandes,34,Flamengo,6104,43,21,18,66,31,79,Não,Meio,Sim,0
+667,Caio, Machado,Caio Machado,24,Cuiabá,4760,54,74,13,3,83,98,Não,Defesa,Não,0
+668,Lucca, Vieira,Lucca Vieira,22,Palmeiras,6705,57,34,71,56,73,54,Não,Gol,Sim,0
+669,Caio, Ramos,Caio Ramos,31,Corinthians,1399,38,8,92,3,7,82,Sim,Defesa,Não,9
+670,Lorenzo, Souza,Lorenzo Souza,29,Grêmio,5999,52,31,28,88,31,83,Não,Ataque,Não,0
+671,Miguel, Lima,Miguel Lima,20,Corinthians,3615,44,24,90,22,49,35,Sim,Ataque,Sim,3
+672,João Gabriel, Gomes,João Gabriel Gomes,23,Botafogo,1097,39,46,52,4,78,16,Não,Ataque,Não,0
+673,João Gabriel, Santana,João Gabriel Santana,29,Coritiba,5962,45,83,15,32,79,17,Sim,Defesa,Sim,7
+674,Marcos, Fernandes,Marcos Fernandes,21,São Paulo,5246,60,60,93,12,78,57,Não,Defesa,Sim,0
+675,Rafael, Martins,Rafael Martins,39,Fortaleza,2073,51,46,97,65,2,49,Sim,Defesa,Não,2
+676,Leonardo, Santana,Leonardo Santana,40,Bahia,8997,67,15,91,79,83,71,Sim,Gol,Sim,9
+677,Pedro, Teixeira,Pedro Teixeira,34,São Paulo,8262,75,97,49,79,53,99,Sim,Defesa,Não,8
+678,Daniel, Ribeiro,Daniel Ribeiro,23,Athletico-PR,5363,52,82,46,39,41,55,Sim,Defesa,Sim,3
+679,Thiago, Fernandes,Thiago Fernandes,38,Bahia,4850,51,38,59,53,43,62,Não,Gol,Não,0
+680,Murilo, Teixeira,Murilo Teixeira,38,São Paulo,1582,34,51,57,2,46,17,Sim,Libero,Não,5
+681,João Vitor, Gomes,João Vitor Gomes,29,Cruzeiro,8500,34,96,8,1,51,18,Não,Defesa,Não,0
+682,Henrique, Teixeira,Henrique Teixeira,17,Botafogo,8829,44,28,12,33,88,63,Sim,Defesa,Sim,4
+683,Heitor, Souza,Heitor Souza,38,Bragantino,2608,51,65,54,20,23,96,Não,Gol,Não,0
+684,Henrique, Cardoso,Henrique Cardoso,22,São Paulo,6635,42,18,57,63,5,69,Sim,Libero,Sim,4
+685,Miguel, Dias,Miguel Dias,19,Santos,1068,18,30,38,17,1,8,Não,Libero,Não,0
+686,Lucca, Machado,Lucca Machado,30,América-MG,4553,60,96,55,51,18,81,Não,Defesa,Não,0
+687,Davi, Martins,Davi Martins,19,Palmeiras,5755,55,87,56,46,7,79,Sim,Libero,Sim,8
+688,Henrique, Almeida,Henrique Almeida,39,Corinthians,7567,42,1,63,4,86,60,Não,Libero,Não,0
+689,Miguel, Vieira,Miguel Vieira,28,Goiás,5719,63,22,92,98,60,46,Sim,Gol,Sim,4
+690,Lucas, Silva,Lucas Silva,17,São Paulo,7809,59,48,100,78,33,37,Sim,Defesa,Sim,11
+691,Nicolas, Carvalho,Nicolas Carvalho,28,Atlético-MG,3095,38,75,84,9,18,6,Sim,Libero,Não,10
+692,Lucas, Santana,Lucas Santana,30,Goiás,5827,58,2,94,67,95,33,Sim,Meio,Não,11
+693,Davi, Cardoso,Davi Cardoso,21,Bragantino,3735,32,31,1,57,61,11,Não,Libero,Sim,0
+694,Lucas, Nascimento,Lucas Nascimento,16,Bahia,7632,61,47,77,72,58,55,Sim,Ataque,Não,5
+695,Murilo, Cardoso,Murilo Cardoso,31,Palmeiras,8511,62,50,43,99,34,85,Sim,Ataque,Não,6
+696,Guilherme, Marques,Guilherme Marques,26,Santos,5694,37,33,11,80,16,48,Sim,Defesa,Sim,5
+697,Rafael, Dias,Rafael Dias,19,Santos,6939,24,8,4,4,82,25,Não,Ataque,Sim,0
+698,Bernardo, Soares,Bernardo Soares,38,Fluminense,7650,51,85,22,35,82,35,Sim,Ataque,Não,5
+699,Arthur, Ramos,Arthur Ramos,21,Coritiba,7817,40,20,31,85,26,39,Sim,Ataque,Sim,1
+700,Gustavo, Fernandes,Gustavo Fernandes,32,Flamengo,3939,38,48,76,16,26,28,Não,Gol,Sim,0
+701,Vitor, Silva,Vitor Silva,23,Palmeiras,9343,34,6,55,25,4,80,Não,Gol,Sim,0
+702,Daniel, Nunes,Daniel Nunes,24,Corinthians,3918,30,41,48,15,23,26,Não,Libero,Sim,0
+703,Caio, Rocha,Caio Rocha,35,Corinthians,3176,67,65,19,70,86,98,Sim,Meio,Sim,2
+704,João Gabriel, Cardoso,João Gabriel Cardoso,38,Cuiabá,8497,36,10,40,22,63,47,Não,Gol,Não,0
+705,Gustavo, Nascimento,Gustavo Nascimento,23,Santos,2800,57,91,87,31,59,17,Sim,Ataque,Sim,12
+706,Marcos, Nunes,Marcos Nunes,33,Goiás,1630,63,72,99,40,73,35,Não,Gol,Sim,0
+707,Lucca, Pereira,Lucca Pereira,22,Santos,4078,69,52,83,62,51,100,Não,Meio,Sim,0
+708,Gabriel, Martins,Gabriel Martins,22,Palmeiras,3388,49,53,30,22,54,86,Sim,Gol,Sim,2
+709,Cauã, Lima,Cauã Lima,20,Grêmio,8578,64,77,75,97,72,2,Sim,Gol,Não,8
+710,Henrique, Machado,Henrique Machado,26,Coritiba,2649,34,15,30,27,91,7,Não,Defesa,Sim,0
+711,João Pedro, Moreira,João Pedro Moreira,36,Internacional,4769,50,89,72,32,14,46,Sim,Meio,Não,4
+712,Eduardo, Rodrigues,Eduardo Rodrigues,18,São Paulo,7237,40,33,4,29,80,57,Sim,Defesa,Não,9
+713,Davi, Costa,Davi Costa,25,Atlético-MG,1256,21,1,38,27,39,2,Não,Defesa,Sim,0
+714,Gabriel, Marques,Gabriel Marques,17,Santos,9871,40,56,10,18,41,77,Sim,Ataque,Não,4
+715,Caio, Silva,Caio Silva,17,Corinthians,5180,37,52,16,58,17,43,Sim,Ataque,Não,1
+716,Heitor, Oliveira,Heitor Oliveira,36,São Paulo,8253,57,72,31,14,76,93,Sim,Meio,Sim,5
+717,Enzo, Marques,Enzo Marques,33,Corinthians,6439,57,97,7,72,47,63,Não,Meio,Sim,0
+718,Matheus, Teixeira,Matheus Teixeira,30,Fortaleza,6983,44,56,5,73,19,67,Não,Libero,Sim,0
+719,Bernardo, Barbosa,Bernardo Barbosa,16,Flamengo,9343,74,93,87,86,90,17,Sim,Defesa,Não,4
+720,Miguel, Dias,Miguel Dias,28,Bahia,3487,33,55,12,48,48,4,Não,Gol,Não,0
+721,João, Silva,João Silva,34,América-MG,4128,45,15,71,44,6,91,Não,Ataque,Sim,0
+722,Samuel, Pereira,Samuel Pereira,26,Fluminense,1729,41,23,94,48,26,15,Não,Defesa,Não,0
+723,Nicolas, Lopes,Nicolas Lopes,23,América-MG,9725,44,93,28,39,3,58,Não,Meio,Sim,0
+724,Lorenzo, Martins,Lorenzo Martins,24,Coritiba,8774,65,19,81,80,77,72,Sim,Meio,Sim,10
+725,Lucca, Ramos,Lucca Ramos,35,Cruzeiro,9182,42,45,48,21,66,32,Sim,Defesa,Sim,8
+726,Isaac, Alves,Isaac Alves,31,Grêmio,9592,36,43,27,69,7,34,Não,Ataque,Sim,0
+727,Vinicius, Teixeira,Vinicius Teixeira,37,Bragantino,6038,62,79,29,90,92,24,Não,Defesa,Não,0
+728,Felipe, Barbosa,Felipe Barbosa,23,Vasco,4131,37,31,9,86,57,5,Não,Ataque,Sim,0
+729,Rafael, Andrade,Rafael Andrade,27,Fluminense,5516,49,51,69,7,50,70,Sim,Libero,Não,8
+730,Murilo, Cardoso,Murilo Cardoso,18,Goiás,7249,33,62,65,15,11,12,Não,Meio,Não,0
+731,João Gabriel, Martins,João Gabriel Martins,29,Cuiabá,7441,61,70,92,62,50,34,Não,Defesa,Sim,0
+732,Pietro, Lopes,Pietro Lopes,35,Vasco,2036,48,47,25,5,95,68,Sim,Defesa,Sim,5
+733,Eduardo, Almeida,Eduardo Almeida,18,Fortaleza,4643,68,63,100,68,26,85,Sim,Ataque,Sim,3
+734,Eduardo, Almeida,Eduardo Almeida,19,São Paulo,2400,54,9,17,81,71,94,Não,Ataque,Sim,0
+735,Vinicius, Nascimento,Vinicius Nascimento,19,Vasco,1337,34,24,21,29,60,37,Sim,Defesa,Não,4
+736,Guilherme, Lima,Guilherme Lima,24,Bragantino,1301,43,34,84,12,7,79,Sim,Libero,Sim,6
+737,Miguel, Freitas,Miguel Freitas,19,Fortaleza,5261,56,71,22,48,72,67,Não,Gol,Sim,0
+738,João Vitor, Dias,João Vitor Dias,37,Cuiabá,8258,51,67,71,81,10,26,Sim,Libero,Sim,3
+739,Eduardo, Carvalho,Eduardo Carvalho,20,Fluminense,3051,53,82,66,13,8,96,Não,Defesa,Sim,0
+740,Leonardo, Almeida,Leonardo Almeida,36,Bragantino,6622,54,18,80,99,47,29,Sim,Gol,Não,3
+741,Vinicius, Vieira,Vinicius Vieira,36,Fortaleza,7933,35,60,18,5,19,74,Sim,Ataque,Não,1
+742,Rafael, Almeida,Rafael Almeida,26,Flamengo,8598,37,17,32,52,18,68,Sim,Defesa,Sim,7
+743,Bernardo, Andrade,Bernardo Andrade,32,Vasco,1974,46,23,59,59,12,79,Sim,Libero,Sim,5
+744,Vinicius, Gomes,Vinicius Gomes,30,Grêmio,6232,72,61,70,78,56,98,Não,Libero,Não,0
+745,Vinicius, Andrade,Vinicius Andrade,32,Atlético-MG,9657,52,32,94,4,84,47,Não,Gol,Não,0
+746,Matheus, Freitas,Matheus Freitas,27,Botafogo,2042,67,86,97,4,99,51,Não,Libero,Não,0
+747,Murilo, Vieira,Murilo Vieira,32,Flamengo,2417,59,74,47,3,96,78,Sim,Gol,Sim,10
+748,Thiago, Barbosa,Thiago Barbosa,26,Internacional,8384,68,58,57,95,66,64,Sim,Meio,Sim,4
+749,Pietro, Lima,Pietro Lima,22,Coritiba,5034,34,18,89,51,2,11,Não,Ataque,Não,0
+750,Daniel, Freitas,Daniel Freitas,37,Atlético-MG,7020,50,87,35,12,84,35,Sim,Libero,Sim,1
+751,Lorenzo, Machado,Lorenzo Machado,23,Coritiba,4289,40,24,4,63,43,68,Não,Ataque,Sim,0
+752,Arthur, Ramos,Arthur Ramos,17,Fluminense,2766,56,35,65,46,92,42,Sim,Gol,Sim,7
+753,Samuel, Oliveira,Samuel Oliveira,37,Athletico-PR,8391,50,68,59,15,29,81,Sim,Gol,Sim,10
+754,Marcos, Ribeiro,Marcos Ribeiro,33,Cuiabá,2879,50,54,14,63,39,81,Não,Libero,Não,0
+755,Lucas, Pereira,Lucas Pereira,28,Fortaleza,4485,72,79,82,62,76,61,Sim,Libero,Sim,4
+756,Lucca, Nascimento,Lucca Nascimento,38,Grêmio,5632,53,76,48,38,97,10,Sim,Libero,Sim,12
+757,Felipe, Mendes,Felipe Mendes,32,América-MG,9283,67,77,7,77,83,94,Não,Ataque,Sim,0
+758,Daniel, Freitas,Daniel Freitas,40,Grêmio,3963,33,19,36,88,12,13,Sim,Ataque,Sim,9
+759,Thiago, Santana,Thiago Santana,30,Fortaleza,4413,47,63,94,25,3,51,Sim,Libero,Sim,3
+760,Eduardo, Silva,Eduardo Silva,32,Palmeiras,2218,56,87,66,33,61,36,Não,Defesa,Sim,0
+761,Guilherme, Soares,Guilherme Soares,29,Internacional,8122,29,12,29,6,56,46,Não,Meio,Sim,0
+762,Daniel, Gonçalves,Daniel Gonçalves,34,Santos,3673,50,20,92,73,2,66,Não,Meio,Não,0
+763,Vitor, Pereira,Vitor Pereira,25,Palmeiras,9458,66,34,43,87,72,98,Não,Libero,Sim,0
+764,Miguel, Alves,Miguel Alves,31,Vasco,7670,35,50,6,44,23,56,Sim,Gol,Sim,3
+765,João Pedro, Silva,João Pedro Silva,37,Fluminense,2549,62,24,70,63,58,98,Sim,Meio,Não,9
+766,Rafael, Teixeira,Rafael Teixeira,33,Cruzeiro,3414,51,84,8,4,79,81,Sim,Meio,Sim,9
+767,Pietro, Teixeira,Pietro Teixeira,36,Santos,5390,36,28,21,58,61,16,Não,Libero,Sim,0
+768,João Pedro, Costa,João Pedro Costa,17,Cuiabá,5144,64,100,90,23,88,22,Não,Libero,Não,0
+769,Vitor, Almeida,Vitor Almeida,34,Bahia,1106,26,2,15,13,45,58,Não,Ataque,Sim,0
+770,Heitor, Dias,Heitor Dias,28,Bahia,2680,52,44,45,65,21,89,Sim,Libero,Sim,5
+771,Henrique, Marques,Henrique Marques,25,Vasco,5999,63,98,48,93,71,6,Sim,Defesa,Não,4
+772,Davi, Cardoso,Davi Cardoso,26,Coritiba,6386,47,39,86,56,42,15,Sim,Defesa,Não,11
+773,Thiago, Fernandes,Thiago Fernandes,29,Athletico-PR,9908,36,4,62,25,24,69,Não,Defesa,Não,0
+774,Isaac, Mendes,Isaac Mendes,31,Corinthians,9777,43,53,32,46,80,8,Não,Gol,Sim,0
+775,Heitor, Moreira,Heitor Moreira,26,Athletico-PR,1396,35,30,20,49,4,73,Sim,Gol,Não,1
+776,João, Ramos,João Ramos,36,Athletico-PR,4005,54,83,32,25,43,87,Não,Gol,Não,0
+777,Henrique, Rocha,Henrique Rocha,26,Bahia,1801,65,56,80,16,92,81,Sim,Ataque,Sim,5
+778,Isaac, Rodrigues,Isaac Rodrigues,22,Bahia,7880,43,67,48,56,22,26,Não,Gol,Sim,0
+779,Caio, Teixeira,Caio Teixeira,34,Fluminense,1144,56,66,25,43,56,94,Sim,Libero,Sim,5
+780,Caio, Machado,Caio Machado,28,Coritiba,9221,34,4,66,33,69,1,Não,Defesa,Sim,0
+781,Lucca, Freitas,Lucca Freitas,16,Cuiabá,2067,49,38,49,44,94,24,Não,Meio,Não,0
+782,Davi, Vieira,Davi Vieira,16,Atlético-MG,2572,47,31,48,8,72,78,Sim,Libero,Sim,9
+783,João Gabriel, Silva,João Gabriel Silva,34,Palmeiras,1234,53,8,45,89,93,34,Não,Ataque,Sim,0
+784,Daniel, Moreira,Daniel Moreira,23,Botafogo,5375,59,67,17,53,70,92,Sim,Ataque,Sim,5
+785,Samuel, Carvalho,Samuel Carvalho,37,Bragantino,8413,68,82,77,91,2,88,Não,Defesa,Não,0
+786,Vitor, Souza,Vitor Souza,20,Flamengo,3753,40,72,17,63,19,32,Não,Gol,Sim,0
+787,Eduardo, Almeida,Eduardo Almeida,34,Coritiba,7579,65,29,60,85,66,85,Não,Ataque,Não,0
+788,Leonardo, Santos,Leonardo Santos,23,Goiás,7288,71,90,63,100,74,31,Não,Gol,Não,0
+789,Henrique, Souza,Henrique Souza,28,Coritiba,3962,49,12,88,49,53,44,Não,Meio,Sim,0
+790,Thiago, Costa,Thiago Costa,16,Bahia,3768,27,45,46,12,13,20,Sim,Gol,Sim,4
+791,Enzo, Rocha,Enzo Rocha,28,Coritiba,3930,32,22,43,29,65,4,Sim,Gol,Sim,5
+792,Lucas, Gomes,Lucas Gomes,25,Flamengo,6436,47,83,58,3,48,44,Sim,Defesa,Não,10
+793,Eduardo, Moreira,Eduardo Moreira,16,Corinthians,7242,65,77,66,55,33,95,Sim,Libero,Não,11
+794,Isaac, Soares,Isaac Soares,16,Athletico-PR,9517,46,80,49,51,23,28,Sim,Libero,Sim,11
+795,João Pedro, Dias,João Pedro Dias,29,Flamengo,4313,56,90,29,81,72,9,Não,Defesa,Sim,0
+796,João, Gomes,João Gomes,28,Palmeiras,3522,45,90,8,20,16,93,Não,Gol,Sim,0
+797,Murilo, Martins,Murilo Martins,16,Atlético-MG,4322,60,43,52,72,90,45,Não,Libero,Sim,0
+798,João, Nunes,João Nunes,36,Internacional,8031,45,26,67,14,76,46,Sim,Meio,Sim,10
+799,Davi, Lopes,Davi Lopes,34,Athletico-PR,2122,39,63,45,4,75,9,Não,Gol,Não,0
+800,João Gabriel, Gonçalves,João Gabriel Gonçalves,20,Fluminense,6352,53,1,66,60,61,81,Sim,Ataque,Sim,6
+801,Gustavo, Santana,Gustavo Santana,24,Bragantino,3525,62,80,82,17,68,66,Não,Libero,Não,0
+802,Rafael, Santos,Rafael Santos,31,Botafogo,6036,53,4,88,92,11,74,Sim,Meio,Não,4
+803,Guilherme, Rocha,Guilherme Rocha,38,Cuiabá,3127,61,15,84,63,81,65,Não,Defesa,Sim,0
+804,Davi, Rodrigues,Davi Rodrigues,25,Bahia,8970,79,94,87,87,35,93,Sim,Meio,Não,3
+805,Murilo, Rodrigues,Murilo Rodrigues,25,Goiás,2755,45,64,8,10,69,78,Não,Libero,Sim,0
+806,Arthur, Ferreira,Arthur Ferreira,36,Cuiabá,4193,38,42,13,2,89,46,Não,Libero,Não,0
+807,Matheus, Almeida,Matheus Almeida,32,Cuiabá,3422,64,57,80,86,9,90,Sim,Libero,Não,11
+808,Felipe, Oliveira,Felipe Oliveira,34,Cruzeiro,6255,22,37,26,10,22,18,Não,Meio,Não,0
+809,Pedro, Souza,Pedro Souza,33,Fortaleza,4645,50,15,41,86,67,45,Sim,Libero,Não,6
+810,Guilherme, Costa,Guilherme Costa,37,Athletico-PR,3827,27,32,66,18,9,10,Não,Libero,Não,0
+811,Henrique, Santos,Henrique Santos,37,Fortaleza,6145,52,83,52,81,27,19,Sim,Ataque,Sim,8
+812,Lucas, Vieira,Lucas Vieira,18,Atlético-MG,2713,50,72,38,50,89,2,Sim,Libero,Sim,7
+813,Eduardo, Rocha,Eduardo Rocha,16,Cruzeiro,8704,50,90,29,58,34,39,Sim,Gol,Sim,4
+814,Henrique, Teixeira,Henrique Teixeira,31,Coritiba,1154,35,61,26,24,13,54,Sim,Defesa,Sim,2
+815,Miguel, Nunes,Miguel Nunes,23,Santos,8962,56,96,48,32,28,79,Sim,Gol,Sim,1
+816,Henrique, Ramos,Henrique Ramos,17,Grêmio,9918,58,75,5,95,78,40,Sim,Ataque,Não,8
+817,Pedro, Vieira,Pedro Vieira,27,Corinthians,3971,37,15,75,17,49,31,Sim,Gol,Não,4
+818,Pietro, Marques,Pietro Marques,34,Grêmio,2853,48,52,69,26,58,35,Não,Libero,Não,0
+819,Caio, Lima,Caio Lima,31,Atlético-MG,6734,65,41,92,60,54,79,Sim,Meio,Sim,4
+820,Marcos, Fernandes,Marcos Fernandes,27,Palmeiras,2935,70,40,73,58,93,89,Sim,Gol,Sim,7
+821,Lucca, Moreira,Lucca Moreira,23,América-MG,8152,42,76,3,51,77,5,Não,Defesa,Não,0
+822,Isaac, Cardoso,Isaac Cardoso,17,Santos,7450,29,21,15,30,80,2,Não,Ataque,Não,0
+823,Nicolas, Dias,Nicolas Dias,28,Vasco,3050,50,25,18,80,88,41,Sim,Libero,Sim,9
+824,João Vitor, Machado,João Vitor Machado,35,Internacional,1559,51,15,88,61,81,13,Não,Libero,Sim,0
+825,Gabriel, Ferreira,Gabriel Ferreira,30,Grêmio,4625,58,57,48,87,13,89,Sim,Ataque,Não,8
+826,Gustavo, Dias,Gustavo Dias,20,Botafogo,5062,47,48,39,31,69,49,Sim,Libero,Não,7
+827,Miguel, Ribeiro,Miguel Ribeiro,37,Bahia,7833,54,51,88,68,7,60,Sim,Libero,Sim,10
+828,Nicolas, Machado,Nicolas Machado,38,Fortaleza,5209,33,7,60,33,14,54,Sim,Gol,Não,11
+829,Samuel, Gonçalves,Samuel Gonçalves,31,Flamengo,7941,52,84,19,34,74,49,Não,Defesa,Sim,0
+830,Cauã, Nascimento,Cauã Nascimento,18,América-MG,3176,55,50,93,53,74,8,Sim,Libero,Sim,1
+831,Felipe, Marques,Felipe Marques,22,Santos,5863,62,85,35,85,59,49,Não,Ataque,Sim,0
+832,Miguel, Barbosa,Miguel Barbosa,29,Vasco,5045,34,2,10,49,67,45,Não,Libero,Não,0
+833,Vitor, Soares,Vitor Soares,33,Fluminense,5850,46,46,51,20,86,30,Não,Ataque,Não,0
+834,Lucas, Santana,Lucas Santana,30,Bahia,6129,75,84,59,100,67,65,Sim,Ataque,Não,4
+835,João Vitor, Barbosa,João Vitor Barbosa,20,Vasco,6441,54,60,57,80,3,72,Sim,Gol,Sim,12
+836,Miguel, Silva,Miguel Silva,28,Internacional,6677,41,16,26,27,91,48,Não,Gol,Não,0
+837,Heitor, Ramos,Heitor Ramos,34,Internacional,5558,70,94,86,40,57,73,Não,Meio,Não,0
+838,João Vitor, Marques,João Vitor Marques,17,Fluminense,4398,24,28,8,25,28,33,Sim,Gol,Não,3
+839,Isaac, Martins,Isaac Martins,38,Corinthians,1263,41,50,24,74,10,48,Não,Ataque,Não,0
+840,João Pedro, Dias,João Pedro Dias,20,América-MG,6897,65,45,81,88,78,34,Não,Meio,Não,0
+841,João, Santos,João Santos,37,Cuiabá,5495,47,52,35,68,6,74,Não,Ataque,Não,0
+842,Pedro, Souza,Pedro Souza,17,Santos,9552,72,94,97,59,31,81,Não,Libero,Não,0
+843,Pietro, Freitas,Pietro Freitas,23,Coritiba,1015,36,35,44,4,32,65,Sim,Meio,Não,2
+844,Davi, Souza,Davi Souza,24,Internacional,5146,19,1,45,16,3,31,Sim,Defesa,Sim,9
+845,João Pedro, Soares,João Pedro Soares,36,Grêmio,9517,52,70,90,16,36,51,Não,Libero,Não,0
+846,Vitor, Costa,Vitor Costa,36,Goiás,3673,67,99,78,36,36,89,Não,Ataque,Sim,0
+847,Lucas, Freitas,Lucas Freitas,26,Vasco,7994,58,47,77,86,3,80,Sim,Meio,Sim,9
+848,João Vitor, Santana,João Vitor Santana,32,Athletico-PR,7823,40,3,87,47,25,42,Sim,Ataque,Não,11
+849,Eduardo, Nunes,Eduardo Nunes,33,Cruzeiro,1574,60,53,87,53,38,69,Não,Libero,Sim,0
+850,Henrique, Nascimento,Henrique Nascimento,32,Santos,9353,39,90,49,12,15,29,Sim,Libero,Sim,12
+851,Vinicius, Nascimento,Vinicius Nascimento,21,Botafogo,3792,57,12,59,45,82,90,Não,Defesa,Não,0
+852,Pedro, Machado,Pedro Machado,25,Cuiabá,2720,44,36,2,51,70,64,Sim,Libero,Sim,11
+853,Nicolas, Martins,Nicolas Martins,38,Santos,8351,55,52,55,20,50,100,Sim,Ataque,Não,6
+854,Lucas, Rocha,Lucas Rocha,33,Internacional,1747,41,7,67,51,23,60,Sim,Defesa,Não,9
+855,Arthur, Fernandes,Arthur Fernandes,24,Bahia,7844,60,72,92,37,60,39,Sim,Ataque,Não,1
+856,Henrique, Freitas,Henrique Freitas,28,Internacional,8428,63,74,43,35,91,72,Não,Gol,Sim,0
+857,Leonardo, Gomes,Leonardo Gomes,36,Bragantino,2375,67,87,88,7,75,78,Não,Ataque,Não,0
+858,Isaac, Cardoso,Isaac Cardoso,20,Vasco,5555,49,37,42,66,14,87,Sim,Ataque,Sim,2
+859,Vinicius, Soares,Vinicius Soares,18,Bragantino,2925,40,81,47,3,2,71,Não,Gol,Sim,0
+860,Gabriel, Cardoso,Gabriel Cardoso,26,Bahia,7969,62,57,47,30,94,84,Não,Ataque,Não,0
+861,Heitor, Nunes,Heitor Nunes,39,Bahia,2553,59,26,90,92,84,5,Sim,Libero,Não,4
+862,João, Andrade,João Andrade,28,Goiás,8180,55,23,33,36,96,88,Sim,Libero,Não,7
+863,Lorenzo, Moreira,Lorenzo Moreira,27,Cuiabá,7948,57,29,85,45,50,79,Sim,Ataque,Não,7
+864,Thiago, Santana,Thiago Santana,24,Corinthians,3169,44,65,25,44,56,32,Sim,Gol,Sim,7
+865,Felipe, Cardoso,Felipe Cardoso,16,América-MG,5290,46,31,48,39,15,99,Não,Libero,Não,0
+866,Gustavo, Alves,Gustavo Alves,33,Flamengo,1389,68,86,66,88,87,17,Sim,Defesa,Sim,12
+867,Matheus, Rodrigues,Matheus Rodrigues,25,Palmeiras,5930,45,96,24,53,32,24,Sim,Ataque,Não,7
+868,Thiago, Carvalho,Thiago Carvalho,26,Fluminense,6976,29,22,11,35,57,24,Sim,Gol,Sim,2
+869,Rafael, Oliveira,Rafael Oliveira,17,São Paulo,9454,35,2,87,34,29,24,Não,Ataque,Sim,0
+870,Nicolas, Teixeira,Nicolas Teixeira,16,Flamengo,4417,30,35,36,14,12,55,Não,Libero,Não,0
+871,Matheus, Costa,Matheus Costa,36,Fortaleza,3291,64,33,87,7,98,99,Não,Ataque,Não,0
+872,Cauã, Cardoso,Cauã Cardoso,38,Vasco,5132,63,64,34,41,90,90,Não,Libero,Não,0
+873,Guilherme, Machado,Guilherme Machado,32,Cruzeiro,5407,71,69,91,32,99,67,Sim,Gol,Sim,7
+874,Lucca, Vieira,Lucca Vieira,36,Botafogo,9039,57,55,72,59,61,42,Sim,Meio,Não,11
+875,Gabriel, Moreira,Gabriel Moreira,26,Vasco,8868,50,20,9,89,50,83,Não,Meio,Não,0
+876,Lorenzo, Marques,Lorenzo Marques,33,Bragantino,7188,38,13,77,5,96,3,Não,Libero,Não,0
+877,João Vitor, Gomes,João Vitor Gomes,18,Grêmio,6514,48,63,14,77,35,51,Não,Meio,Não,0
+878,Pietro, Soares,Pietro Soares,35,Palmeiras,2665,28,25,48,45,23,1,Não,Ataque,Sim,0
+879,Miguel, Ribeiro,Miguel Ribeiro,26,Cuiabá,2139,53,43,17,98,26,84,Sim,Libero,Sim,11
+880,Gabriel, Ferreira,Gabriel Ferreira,37,Palmeiras,7908,27,15,32,29,46,14,Não,Ataque,Não,0
+881,Marcos, Andrade,Marcos Andrade,21,América-MG,6292,45,25,50,44,67,42,Sim,Libero,Não,1
+882,Lucas, Alves,Lucas Alves,39,Atlético-MG,9695,39,30,47,15,88,17,Sim,Libero,Sim,6
+883,Rafael, Barbosa,Rafael Barbosa,26,São Paulo,7937,43,92,35,39,18,34,Não,Defesa,Não,0
+884,Vinicius, Nascimento,Vinicius Nascimento,17,Vasco,3641,56,89,1,70,46,77,Não,Defesa,Sim,0
+885,Gabriel, Dias,Gabriel Dias,19,Fortaleza,5161,45,44,48,28,74,32,Sim,Defesa,Não,4
+886,Davi, Alves,Davi Alves,17,Palmeiras,7018,57,53,48,95,19,71,Não,Ataque,Sim,0
+887,Lucca, Rocha,Lucca Rocha,29,Goiás,2295,39,11,27,88,37,32,Não,Gol,Não,0
+888,Pietro, Santos,Pietro Santos,27,Botafogo,6465,50,73,71,39,36,34,Não,Defesa,Sim,0
+889,Guilherme, Mendes,Guilherme Mendes,33,Fortaleza,3178,57,38,73,60,99,17,Sim,Libero,Sim,4
+890,Rafael, Marques,Rafael Marques,38,Vasco,3058,57,88,52,29,41,76,Sim,Ataque,Não,9
+891,João, Gonçalves,João Gonçalves,30,Fluminense,5964,49,24,88,80,33,22,Sim,Gol,Não,11
+892,Vitor, Martins,Vitor Martins,40,Fortaleza,3095,45,79,52,13,23,60,Sim,Defesa,Sim,4
+893,Enzo, Silva,Enzo Silva,40,Bahia,1815,42,29,41,89,12,42,Não,Libero,Sim,0
+894,Isaac, Barbosa,Isaac Barbosa,19,Flamengo,2482,43,51,23,17,39,88,Não,Libero,Não,0
+895,Henrique, Barbosa,Henrique Barbosa,30,São Paulo,5579,64,79,58,24,66,95,Não,Gol,Sim,0
+896,Vitor, Ramos,Vitor Ramos,17,Athletico-PR,3820,45,17,92,43,54,22,Sim,Libero,Sim,3
+897,Lucas, Machado,Lucas Machado,27,Coritiba,2811,44,18,42,56,44,63,Sim,Libero,Sim,4
+898,Pietro, Santana,Pietro Santana,27,Santos,2134,37,2,29,94,45,18,Não,Defesa,Não,0
+899,Thiago, Almeida,Thiago Almeida,18,Fluminense,3836,44,78,68,7,15,52,Sim,Gol,Sim,12
+900,Thiago, Teixeira,Thiago Teixeira,37,Botafogo,3714,18,36,19,10,16,11,Não,Ataque,Sim,0
+901,Daniel, Andrade,Daniel Andrade,22,América-MG,1704,32,11,13,61,62,14,Não,Defesa,Sim,0
+902,Davi, Lima,Davi Lima,32,Coritiba,2036,22,1,35,35,9,32,Não,Libero,Não,0
+903,Cauã, Teixeira,Cauã Teixeira,25,Cuiabá,3931,42,23,50,51,23,64,Não,Gol,Sim,0
+904,Lorenzo, Rodrigues,Lorenzo Rodrigues,21,Bragantino,8693,48,92,75,34,20,21,Não,Libero,Sim,0
+905,Enzo, Marques,Enzo Marques,26,Santos,6038,73,55,76,80,98,56,Sim,Defesa,Sim,8
+906,Miguel, Santos,Miguel Santos,38,São Paulo,3492,40,94,15,58,31,3,Não,Gol,Não,0
+907,Pedro, Ramos,Pedro Ramos,24,Vasco,5194,59,95,58,80,21,41,Não,Defesa,Sim,0
+908,Pedro, Teixeira,Pedro Teixeira,39,Bragantino,6645,41,91,55,25,35,3,Não,Defesa,Não,0
+909,João Gabriel, Teixeira,João Gabriel Teixeira,21,Bahia,1391,75,58,81,95,66,76,Não,Defesa,Sim,0
+910,João Pedro, Marques,João Pedro Marques,31,Flamengo,7621,84,80,40,100,100,100,Sim,Gol,Não,1
+911,Arthur, Ramos,Arthur Ramos,32,Flamengo,6242,69,80,65,67,93,43,Sim,Ataque,Sim,9
+912,João, Oliveira,João Oliveira,32,Athletico-PR,4131,62,99,99,29,71,12,Sim,Gol,Não,2
+913,Eduardo, Vieira,Eduardo Vieira,23,Flamengo,3883,49,18,86,60,73,9,Sim,Libero,Não,9
+914,Miguel, Soares,Miguel Soares,17,Flamengo,3726,38,25,66,33,59,8,Não,Libero,Sim,0
+915,Eduardo, Carvalho,Eduardo Carvalho,22,Atlético-MG,4494,34,24,51,1,14,82,Não,Gol,Sim,0
+916,Gabriel, Moreira,Gabriel Moreira,21,Flamengo,6202,35,73,22,9,14,59,Não,Defesa,Sim,0
+917,Enzo, Ramos,Enzo Ramos,39,Internacional,9356,76,93,86,43,69,91,Não,Meio,Não,0
+918,Pedro, Nascimento,Pedro Nascimento,32,Internacional,6363,22,3,11,13,61,22,Sim,Libero,Não,3
+919,Heitor, Nascimento,Heitor Nascimento,20,Cruzeiro,5002,70,85,23,76,92,78,Sim,Meio,Sim,6
+920,Bernardo, Nascimento,Bernardo Nascimento,16,Internacional,1087,71,95,99,57,27,78,Sim,Ataque,Sim,10
+921,João Pedro, Ferreira,João Pedro Ferreira,18,São Paulo,1417,36,6,89,3,42,43,Sim,Ataque,Não,5
+922,Leonardo, Barbosa,Leonardo Barbosa,21,América-MG,6279,27,3,33,20,49,30,Sim,Meio,Sim,12
+923,Vitor, Machado,Vitor Machado,19,Bragantino,1608,54,88,36,74,53,21,Não,Defesa,Sim,0
+924,Samuel, Martins,Samuel Martins,34,Bahia,3669,45,28,53,63,71,12,Sim,Defesa,Sim,9
+925,Vinicius, Nascimento,Vinicius Nascimento,21,Palmeiras,5219,52,21,48,85,98,11,Não,Defesa,Sim,0
+926,Matheus, Freitas,Matheus Freitas,33,Athletico-PR,6285,28,55,3,22,30,33,Sim,Gol,Sim,6
+927,Samuel, Gomes,Samuel Gomes,24,Palmeiras,1942,40,46,43,18,80,17,Sim,Libero,Não,5
+928,João Gabriel, Ramos,João Gabriel Ramos,19,Athletico-PR,7192,45,4,42,79,70,34,Não,Ataque,Sim,0
+929,Lorenzo, Vieira,Lorenzo Vieira,36,Coritiba,9194,59,40,98,21,71,68,Não,Meio,Sim,0
+930,Arthur, Lopes,Arthur Lopes,27,Fortaleza,2521,30,8,48,28,36,34,Não,Meio,Sim,0
+931,Arthur, Nunes,Arthur Nunes,21,Cruzeiro,1647,51,71,92,11,22,62,Não,Gol,Não,0
+932,Gabriel, Nascimento,Gabriel Nascimento,28,Grêmio,1878,62,83,100,53,2,75,Não,Gol,Não,0
+933,Thiago, Freitas,Thiago Freitas,33,Bahia,9339,61,46,99,37,36,88,Não,Ataque,Sim,0
+934,Enzo, Lopes,Enzo Lopes,40,Fluminense,1165,51,75,97,40,36,9,Sim,Ataque,Sim,12
+935,Rafael, Souza,Rafael Souza,26,Bragantino,2967,60,43,99,34,96,28,Não,Ataque,Não,0
+936,Miguel, Costa,Miguel Costa,27,Coritiba,3217,43,24,3,2,97,89,Sim,Defesa,Não,11
+937,João Gabriel, Teixeira,João Gabriel Teixeira,17,Fortaleza,4372,45,99,76,22,5,23,Não,Ataque,Sim,0
+938,Vitor, Dias,Vitor Dias,38,Bragantino,2702,24,12,9,1,56,46,Sim,Ataque,Não,8
+939,Rafael, Silva,Rafael Silva,27,Botafogo,7133,66,79,92,26,61,72,Não,Ataque,Sim,0
+940,Gabriel, Marques,Gabriel Marques,27,Coritiba,5695,44,29,57,48,84,5,Não,Meio,Não,0
+941,Enzo, Marques,Enzo Marques,37,Atlético-MG,5176,64,78,48,39,78,80,Sim,Ataque,Não,11
+942,Heitor, Soares,Heitor Soares,30,Bragantino,7383,57,30,70,94,36,56,Não,Gol,Não,0
+943,Miguel, Moreira,Miguel Moreira,24,América-MG,2799,49,8,77,81,10,72,Não,Defesa,Sim,0
+944,Eduardo, Teixeira,Eduardo Teixeira,34,Coritiba,3526,78,91,76,80,81,64,Sim,Defesa,Não,10
+945,Pedro, Silva,Pedro Silva,27,Flamengo,8820,50,45,26,92,41,46,Não,Defesa,Sim,0
+946,Bernardo, Mendes,Bernardo Mendes,20,Vasco,9203,55,52,43,83,65,32,Sim,Gol,Não,11
+947,João Gabriel, Machado,João Gabriel Machado,20,Santos,4192,33,62,75,18,2,10,Não,Defesa,Sim,0
+948,Daniel, Mendes,Daniel Mendes,35,Atlético-MG,5248,66,32,96,44,92,69,Sim,Libero,Não,12
+949,Bernardo, Cardoso,Bernardo Cardoso,27,Atlético-MG,9640,48,39,23,34,90,57,Não,Meio,Sim,0
+950,Pietro, Silva,Pietro Silva,24,Fortaleza,6536,32,29,46,61,20,6,Sim,Ataque,Não,11
+951,Lucca, Lima,Lucca Lima,24,Coritiba,4767,46,30,42,88,23,47,Não,Meio,Não,0
+952,Vitor, Soares,Vitor Soares,37,Grêmio,2455,76,99,76,18,89,99,Não,Gol,Sim,0
+953,Daniel, Ramos,Daniel Ramos,24,América-MG,8048,43,8,20,80,69,40,Sim,Libero,Sim,7
+954,João Gabriel, Andrade,João Gabriel Andrade,30,Coritiba,7753,49,54,36,26,79,51,Sim,Gol,Não,11
+955,Heitor, Mendes,Heitor Mendes,32,Fluminense,2496,42,74,33,62,12,30,Sim,Gol,Não,12
+956,Vinicius, Gomes,Vinicius Gomes,19,Flamengo,6751,38,72,35,65,16,3,Não,Defesa,Não,0
+957,Leonardo, Gonçalves,Leonardo Gonçalves,24,São Paulo,2481,49,40,36,79,76,15,Sim,Gol,Sim,2
+958,Samuel, Moreira,Samuel Moreira,27,Goiás,8528,51,78,85,27,7,58,Não,Libero,Não,0
+959,Marcos, Almeida,Marcos Almeida,26,Corinthians,8444,41,12,75,62,15,41,Não,Defesa,Sim,0
+960,Marcos, Moreira,Marcos Moreira,23,Atlético-MG,2248,59,38,85,53,35,88,Não,Meio,Não,0
+961,Gustavo, Cardoso,Gustavo Cardoso,28,Fortaleza,2872,60,78,59,81,8,75,Não,Ataque,Sim,0
+962,Heitor, Cardoso,Heitor Cardoso,30,São Paulo,3578,74,84,47,89,73,81,Não,Gol,Não,0
+963,João, Moreira,João Moreira,29,Athletico-PR,2141,47,70,3,93,55,16,Não,Libero,Sim,0
+964,Bernardo, Rocha,Bernardo Rocha,17,Internacional,7060,53,37,49,40,52,89,Sim,Meio,Sim,5
+965,Gabriel, Martins,Gabriel Martins,20,Fortaleza,4651,67,100,60,70,66,40,Não,Meio,Não,0
+966,Davi, Almeida,Davi Almeida,24,Vasco,3557,64,76,89,27,63,67,Não,Gol,Não,0
+967,Enzo, Silva,Enzo Silva,21,Palmeiras,1581,31,56,68,6,20,5,Não,Defesa,Sim,0
+968,Guilherme, Nunes,Guilherme Nunes,30,Bragantino,8383,48,3,1,67,95,76,Sim,Ataque,Não,4
+969,Samuel, Souza,Samuel Souza,16,Botafogo,2719,50,34,58,33,29,100,Sim,Gol,Não,7
+970,João Gabriel, Moreira,João Gabriel Moreira,17,Grêmio,1843,65,55,41,97,62,70,Não,Defesa,Não,0
+971,Lorenzo, Ferreira,Lorenzo Ferreira,31,Fluminense,4214,60,92,6,40,91,75,Não,Defesa,Sim,0
+972,Enzo, Rocha,Enzo Rocha,38,São Paulo,7985,41,90,85,14,9,8,Não,Gol,Sim,0
+973,João, Rodrigues,João Rodrigues,37,Bahia,1655,37,37,7,95,33,16,Sim,Ataque,Não,2
+974,Matheus, Freitas,Matheus Freitas,30,Cuiabá,5183,61,52,30,81,93,49,Sim,Gol,Sim,5
+975,Marcos, Rodrigues,Marcos Rodrigues,16,Fortaleza,5714,44,25,38,9,78,72,Sim,Defesa,Não,10
+976,Lorenzo, Carvalho,Lorenzo Carvalho,16,Flamengo,4425,27,3,59,20,21,35,Não,Gol,Não,0
+977,Felipe, Cardoso,Felipe Cardoso,31,Bahia,5205,50,47,19,58,90,40,Não,Gol,Não,0
+978,João, Teixeira,João Teixeira,26,Cuiabá,5456,39,83,22,34,15,44,Sim,Ataque,Sim,4
+979,Cauã, Moreira,Cauã Moreira,25,Fortaleza,8889,67,62,91,100,36,46,Não,Defesa,Não,0
+980,João Pedro, Rocha,João Pedro Rocha,35,Cuiabá,2131,38,35,22,78,41,15,Sim,Defesa,Não,9
+981,Thiago, Carvalho,Thiago Carvalho,27,Atlético-MG,5122,62,13,74,35,96,93,Sim,Libero,Sim,5
+982,João Gabriel, Gomes,João Gabriel Gomes,35,Coritiba,3504,32,44,30,30,18,39,Sim,Defesa,Não,10
+983,Lorenzo, Dias,Lorenzo Dias,22,Vasco,4768,36,62,48,1,8,64,Não,Meio,Sim,0
+984,Marcos, Gonçalves,Marcos Gonçalves,33,Botafogo,8547,45,14,84,5,25,99,Sim,Gol,Sim,1
+985,Vitor, Silva,Vitor Silva,28,Bragantino,2807,52,86,72,49,52,1,Não,Libero,Sim,0
+986,Vitor, Nunes,Vitor Nunes,24,Grêmio,7547,50,47,72,72,49,11,Não,Ataque,Não,0
+987,Daniel, Carvalho,Daniel Carvalho,23,Athletico-PR,6502,47,31,6,85,61,54,Sim,Defesa,Sim,12
+988,João Vitor, Lima,João Vitor Lima,40,Fortaleza,2936,54,57,80,46,47,42,Sim,Ataque,Sim,4
+989,Enzo, Ribeiro,Enzo Ribeiro,39,Atlético-MG,2682,58,25,99,65,87,15,Não,Libero,Sim,0
+990,Lucca, Freitas,Lucca Freitas,36,Vasco,3788,67,50,79,88,63,56,Sim,Meio,Sim,2
+991,Leonardo, Andrade,Leonardo Andrade,21,Atlético-MG,4652,52,42,16,91,52,61,Sim,Ataque,Não,5
+992,Vinicius, Martins,Vinicius Martins,36,Fortaleza,2502,59,20,82,10,96,91,Não,Libero,Não,0
+993,Marcos, Machado,Marcos Machado,19,Palmeiras,6846,47,4,29,56,84,63,Não,Gol,Não,0
+994,Felipe, Andrade,Felipe Andrade,16,Bragantino,7400,40,38,64,21,71,6,Sim,Meio,Não,8
+995,Gustavo, Rocha,Gustavo Rocha,26,América-MG,6283,44,22,39,2,65,95,Não,Ataque,Não,0
+996,Rafael, Almeida,Rafael Almeida,17,América-MG,1702,31,2,42,48,9,54,Sim,Meio,Não,10
+997,Daniel, Soares,Daniel Soares,40,Cruzeiro,1175,57,60,22,50,86,69,Sim,Gol,Não,9
+998,Gabriel, Teixeira,Gabriel Teixeira,40,Bragantino,9473,39,31,23,34,70,38,Não,Ataque,Sim,0
+999,Davi, Nunes,Davi Nunes,27,Bragantino,8997,82,98,76,69,71,96,Sim,Ataque,Não,12
