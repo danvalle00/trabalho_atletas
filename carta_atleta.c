@@ -99,7 +99,7 @@ void popular_tabela(carta_atleta_t *carta_atleta, int tamanho)
     printf("forca: %d\nvelocidade: %d\nforca_vontade: %d\nresistencia: %d\n", carta_atleta[i].forca, carta_atleta[i].velocidade, carta_atleta[i].forca_vontade, carta_atleta[i].resistencia);
     printf("criatividade: %d\n", carta_atleta[i].criatividade);
     printf("machucado: %s\n", carta_atleta[i].machucado ? "Sim" : "Não");
-    printf("posicao: %s\n", posicoes[carta_atleta[i].posicao]);
+    // printf("posicao: %s\n", posicoes[carta_atleta[i].posicao]);
     printf("Liderança: %s\n", carta_atleta[i].lideranca ? "Sim" : "Não");
     printf("Tempo de Recuperação: %d\n", carta_atleta[i].meses_recuperacao);
   }
