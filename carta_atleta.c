@@ -89,7 +89,7 @@ void popular_tabela(carta_atleta_t *carta_atleta, int tamanho)
     }
   }
   // Print pra testar os dados
-  /* for (int i = 0; i < tamanho; i++)
+  for (int i = 0; i < tamanho; i++)
   {
 
     printf("\n\nnome_completo: %s\n", carta_atleta[i].nome_completo);
@@ -102,7 +102,7 @@ void popular_tabela(carta_atleta_t *carta_atleta, int tamanho)
     printf("posicao: %s\n", posicoes[carta_atleta[i].posicao]);
     printf("Liderança: %s\n", carta_atleta[i].lideranca ? "Sim" : "Não");
     printf("Tempo de Recuperação: %d\n", carta_atleta[i].meses_recuperacao);
-  } */
+  }
 }
 
 void salvar_tabela_csv(carta_atleta_t *carta_atleta, int tamanho, const char *nome_arquivo)
