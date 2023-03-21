@@ -14,8 +14,6 @@
 #define max_value 10000
 #define min_value 1000
 
-// TODO: Pensar na parte da lista encadeada
-
 typedef enum
 {
   Gol,
@@ -45,6 +43,20 @@ typedef struct
   int meses_recuperacao;
 } carta_atleta_t;
 
+void popular_tabela(carta_atleta_t *carta_atleta, int tamanho);
+
+void salvar_tabela_csv(carta_atleta_t *carta_atleta, int tamanho, const char *nome_arquivo);
+
+int comparar_pessoas_por_nome(const void *p1, const void *p2);
+
+int main()
+{
+  carta_atleta_t *carta_atleta = malloc(TAM_deck * sizeof(carta_atleta_t));
+  popular_tabela(carta_atleta, TAM_deck);
+  salvar_tabela_csv(carta_atleta, TAM_deck, "lista_jogadores.csv");
+  free(carta_atleta);
+}
+
 void popular_tabela(carta_atleta_t *carta_atleta, int tamanho)
 {
   srand(time(NULL));
@@ -54,8 +66,6 @@ void popular_tabela(carta_atleta_t *carta_atleta, int tamanho)
   char sobrenomes[QTD_name][TAM_name] = {" Silva", " Santos", " Oliveira", " Souza", " Rodrigues", " Ferreira", " Alves", " Pereira", " Lima", " Gomes", " Costa", " Ribeiro", " Martins", " Carvalho", " Almeida", " Lopes", " Soares", " Fernandes", " Vieira", " Barbosa", " Rocha", " Dias", " Nascimento", " Andrade", " Moreira", " Nunes", " Marques", " Machado", " Mendes", " Freitas", " Cardoso", " Ramos", " Gonçalves", " Santana", " Teixeira"};
 
   char times[QTD_time][TAM_name] = {"América-MG", "Athletico-PR", "Atlético-MG", "Bahia", "Botafogo", "Bragantino", "Corinthians", "Coritiba", "Cruzeiro", "Cuiabá", "Flamengo", "Fluminense", "Fortaleza", "Goiás", "Grêmio", "Internacional", "Palmeiras", "Santos", "São Paulo", "Vasco"};
-
-  // char *posicoes[5] = {"Gol", "Defesa", "Meio", "Ataque", "Libero"};
 
   for (int i = 0; i < tamanho; i++)
   {
@@ -88,49 +98,30 @@ void popular_tabela(carta_atleta_t *carta_atleta, int tamanho)
       carta_atleta[i].meses_recuperacao = 0;
     }
   }
-  // Print pra testar os dados
-  for (int i = 0; i < tamanho; i++)
-  {
-
-    printf("\n\nnome_completo: %s\n", carta_atleta[i].nome_completo);
-    printf("index: %d\nnome: %s\nsobrenome: %s\n", carta_atleta[i].id + 1, carta_atleta[i].nome, carta_atleta[i].sobrenome);
-    printf("idade: %d\ntime: %s\nvalor: %i\n", carta_atleta[i].idade, carta_atleta[i].time, carta_atleta[i].valor);
-    printf("Overall: %d\n", (carta_atleta[i].forca + carta_atleta[i].forca_vontade + carta_atleta[i].velocidade + carta_atleta[i].criatividade + carta_atleta[i].resistencia) / 5);
-    printf("forca: %d\nvelocidade: %d\nforca_vontade: %d\nresistencia: %d\n", carta_atleta[i].forca, carta_atleta[i].velocidade, carta_atleta[i].forca_vontade, carta_atleta[i].resistencia);
-    printf("criatividade: %d\n", carta_atleta[i].criatividade);
-    printf("machucado: %s\n", carta_atleta[i].machucado ? "Sim" : "Não");
-    // printf("posicao: %s\n", posicoes[carta_atleta[i].posicao]);
-    printf("Liderança: %s\n", carta_atleta[i].lideranca ? "Sim" : "Não");
-    printf("Tempo de Recuperação: %d\n", carta_atleta[i].meses_recuperacao);
-  }
 }
 
-int comparar_pessoas_por_nome(const void *p1, const void *p2) {
-    const carta_atleta_t *a = p1;
-    const carta_atleta_t *b = p2;
-    return strcmp(a->nome_completo, b->nome_completo);
-}
-
-void salvar_tabela_csv(carta_atleta_t *carta_atleta, int tamanho, const char *nome_arquivo) {
+void salvar_tabela_csv(carta_atleta_t *carta_atleta, int tamanho, const char *nome_arquivo)
+{
   char *posicoes[5] = {"Gol", "Defesa", "Meio", "Ataque", "Libero"};
 
   FILE *arquivo = fopen(nome_arquivo, "w");
 
   qsort(carta_atleta, tamanho, sizeof(carta_atleta_t), comparar_pessoas_por_nome);
 
-  if (arquivo != NULL) {
+  if (arquivo != NULL)
+  {
     fprintf(arquivo, "ID,Nome,Sobrenome,Nome Completo,Idade,Time,Valor,Overall,Força,Resistencia,Velocidade,Força de vontade,Criatividade,Machucado,Posição,Liderança,Tempo De Recuperação\n");
-    for (int i = 0; i < tamanho; i++) {
-      fprintf(arquivo, "%d,%s,%s,%s,%d,%s,%d,%d,%d,%d,%d,%d,%d,%s,%s,%s,%d\n", carta_atleta[i].id, carta_atleta[i].nome, carta_atleta[i].sobrenome, carta_atleta[i].nome_completo, carta_atleta[i].idade, carta_atleta[i].time, carta_atleta[i].valor, (carta_atleta[i].forca + carta_atleta[i].forca_vontade + carta_atleta[i].velocidade + carta_atleta[i].criatividade + carta_atleta[i].resistencia)/5, carta_atleta[i].forca, carta_atleta[i].resistencia, carta_atleta[i].velocidade, carta_atleta[i].forca_vontade, carta_atleta[i].criatividade, carta_atleta[i].machucado ? "Sim" : "Não", posicoes[carta_atleta[i].posicao], carta_atleta[i].lideranca ? "Sim" : "Não", carta_atleta[i].meses_recuperacao);
+    for (int i = 0; i < tamanho; i++)
+    {
+      fprintf(arquivo, "%d,%s,%s,%s,%d,%s,%d,%d,%d,%d,%d,%d,%d,%s,%s,%s,%d\n", carta_atleta[i].id, carta_atleta[i].nome, carta_atleta[i].sobrenome, carta_atleta[i].nome_completo, carta_atleta[i].idade, carta_atleta[i].time, carta_atleta[i].valor, (carta_atleta[i].forca + carta_atleta[i].forca_vontade + carta_atleta[i].velocidade + carta_atleta[i].criatividade + carta_atleta[i].resistencia) / 5, carta_atleta[i].forca, carta_atleta[i].resistencia, carta_atleta[i].velocidade, carta_atleta[i].forca_vontade, carta_atleta[i].criatividade, carta_atleta[i].machucado ? "Sim" : "Não", posicoes[carta_atleta[i].posicao], carta_atleta[i].lideranca ? "Sim" : "Não", carta_atleta[i].meses_recuperacao);
     }
     fclose(arquivo);
   }
 }
 
-int main()
+int comparar_pessoas_por_nome(const void *p1, const void *p2)
 {
-  carta_atleta_t *carta_atleta = malloc(TAM_deck * sizeof(carta_atleta_t));
-  popular_tabela(carta_atleta, TAM_deck);
-  salvar_tabela_csv(carta_atleta, TAM_deck, "lista_jogadores.csv");
-  free(carta_atleta);
+  const carta_atleta_t *a = p1;
+  const carta_atleta_t *b = p2;
+  return strcmp(a->nome_completo, b->nome_completo);
 }
