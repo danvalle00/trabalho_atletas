@@ -1,6 +1,6 @@
 #include "lib/function_atleta.h"
 
-// TODO: Fazer a função de ordenar a linkedlist.
+
 
 int main()
 {
@@ -21,14 +21,16 @@ int main()
     add_node_final(&head, &jogador_csv[i]);
     insection_sort(&head);
   }
-  
+  printf("------ LISTA DOS JOGADORES NO CSV ------\n\n");
+  printar_node(head);
+
   for (int i = 0; i < EXTRA_deck; i++)
   {
     add_node_final(&head, &atleta_extras[i]);
     insection_sort(&head);
   }
 
-  // TODO: Chamar a function de novo aqui
+  printf("------ LISTA COM JOGADORES EXTRAS ------\n\n");
   printar_node(head);
 
   free(jogador_csv);

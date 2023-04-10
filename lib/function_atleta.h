@@ -12,7 +12,7 @@
 #define TAM_name 20
 #define QTD_name 35
 #define QTD_time 20
-#define TAM_deck 500
+#define TAM_deck 1000
 #define EXTRA_deck 100
 #define range_random 100
 #define max_age 40
