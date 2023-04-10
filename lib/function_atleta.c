@@ -173,3 +173,31 @@ void extrair_jogador_csv(char *nome_arquivo, carta_atleta_t *jogador_csv, int ta
   }
   fclose(arquivo);
 }
+
+void insection_sort(node_t ** head)
+{
+  node_t *ordenado = NULL;
+  node_t *atual = *head;
+
+  while (atual != NULL)
+  {
+    node_t *proximo = atual->proximo;
+    if (ordenado == NULL || strcmp(ordenado->data_atleta->nome_completo, atual->data_atleta->nome_completo) > 0)
+    {
+      atual->proximo = ordenado;
+      ordenado = atual;
+    }
+    else 
+    {
+      node_t *temp = ordenado;
+      while (temp->proximo != NULL && strcmp(temp->proximo->data_atleta->nome_completo, atual->data_atleta->nome_completo) < 0)
+      {
+        temp = temp->proximo;
+      }
+      atual->proximo = temp->proximo;
+      temp->proximo = atual;
+    }
+    atual = proximo;
+  }
+  *head = ordenado;
+}

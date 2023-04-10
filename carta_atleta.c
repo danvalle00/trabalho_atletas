@@ -19,11 +19,13 @@ int main()
   for (int i = 0; i < TAM_deck; i++)
   {
     add_node_final(&head, &jogador_csv[i]);
+    insection_sort(&head);
   }
-  // TODO: Chamar a function de ordenar aqui
+  
   for (int i = 0; i < EXTRA_deck; i++)
   {
     add_node_final(&head, &atleta_extras[i]);
+    insection_sort(&head);
   }
 
   // TODO: Chamar a function de novo aqui

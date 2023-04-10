@@ -12,7 +12,7 @@
 #define TAM_name 20
 #define QTD_name 35
 #define QTD_time 20
-#define TAM_deck 1000
+#define TAM_deck 500
 #define EXTRA_deck 100
 #define range_random 100
 #define max_age 40
@@ -80,4 +80,5 @@ void printar_node(node_t *head);
 
 void extrair_jogador_csv(char *nome_arquivo, carta_atleta_t *jogador_csv, int tamanho);
 
+void insection_sort(node_t ** head);
 #endif
